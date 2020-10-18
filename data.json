@@ -1,0 +1,3940 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5f7e0b543b7e813572116803"
+    },
+    "response": {
+        "suggestedFilters": {
+            "header": "Tap to show:",
+            "filters": [
+                {
+                    "name": "Open now",
+                    "key": "openNow"
+                }
+            ]
+        },
+        "headerLocation": "Chueca",
+        "headerFullLocation": "Chueca, Madrid",
+        "headerLocationGranularity": "neighborhood",
+        "query": "food",
+        "totalResults": 51,
+        "suggestedBounds": {
+            "ne": {
+                "lat": 40.4245130518,
+                "lng": -3.695249064575147
+            },
+            "sw": {
+                "lat": 40.4209130482,
+                "lng": -3.699969109424853
+            }
+        },
+        "groups": [
+            {
+                "type": "Recommended Places",
+                "name": "recommended",
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "580f7a8338fa73e7d6a65df3",
+                            "name": "Kuoco 360",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle San Bartolm\u00e9, 14",
+                                "lat": 40.421841757,
+                                "lng": -3.698455902,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421841757,
+                                        "lng": -3.698455902
+                                    }
+                                ],
+                                "distance": 120,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle San Bartolm\u00e9, 14",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "479684021"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-580f7a8338fa73e7d6a65df3-0"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "59bd2433805e3f5982c09476",
+                            "name": "Bunny's Deli",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle San Gregorio 17",
+                                "lat": 40.423935,
+                                "lng": -3.6971583,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.423935,
+                                        "lng": -3.6971583
+                                    }
+                                ],
+                                "distance": 141,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "neighborhood": "Chueca",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle San Gregorio 17",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1d3941735",
+                                    "name": "Vegetarian / Vegan Restaurant",
+                                    "pluralName": "Vegetarian / Vegan Restaurants",
+                                    "shortName": "Vegetarian / Vegan",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "457440977"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-59bd2433805e3f5982c09476-1"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "57d3b734cd10a53b95eb51e1",
+                            "name": "celicioso",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle del Barquillo 19",
+                                "lat": 40.4221118727551,
+                                "lng": -3.695725917401657,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.4221118727551,
+                                        "lng": -3.695725917401657
+                                    }
+                                ],
+                                "distance": 173,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle del Barquillo 19",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16a941735",
+                                    "name": "Bakery",
+                                    "pluralName": "Bakeries",
+                                    "shortName": "Bakery",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-57d3b734cd10a53b95eb51e1-2"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b65fedbf964a520410d2be3",
+                            "name": "Pizzaiolo",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Hortaleza, 84",
+                                "lat": 40.42379534723905,
+                                "lng": -3.698597330722856,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42379534723905,
+                                        "lng": -3.698597330722856
+                                    }
+                                ],
+                                "distance": 146,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "neighborhood": "Chueca",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Hortaleza, 84",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d110941735",
+                                    "name": "Italian Restaurant",
+                                    "pluralName": "Italian Restaurants",
+                                    "shortName": "Italian",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b65fedbf964a520410d2be3-3"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "51ca2035498e6098207e6624",
+                            "name": "Vides",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Libertad, 12",
+                                "lat": 40.42101652377878,
+                                "lng": -3.6973542003338395,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42101652377878,
+                                        "lng": -3.6973542003338395
+                                    }
+                                ],
+                                "distance": 190,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Libertad, 12",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d155941735",
+                                    "name": "Gastropub",
+                                    "pluralName": "Gastropubs",
+                                    "shortName": "Gastropub",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-51ca2035498e6098207e6624-4"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "58a1821a5cab2f7fd651f66d",
+                            "name": "Panod",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle Prim 1",
+                                "lat": 40.42196050145854,
+                                "lng": -3.6954788629561257,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42196050145854,
+                                        "lng": -3.6954788629561257
+                                    }
+                                ],
+                                "distance": 199,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle Prim 1",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16a941735",
+                                    "name": "Bakery",
+                                    "pluralName": "Bakeries",
+                                    "shortName": "Bakery",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-58a1821a5cab2f7fd651f66d-5"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4eb6e73102d5f33e9330b487",
+                            "name": "Food Truck",
+                            "contact": {},
+                            "location": {
+                                "address": "C. San Lucas, 11",
+                                "lat": 40.42381557557015,
+                                "lng": -3.6960864532494018,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42381557557015,
+                                        "lng": -3.6960864532494018
+                                    }
+                                ],
+                                "distance": 178,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. San Lucas, 11",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d14e941735",
+                                    "name": "American Restaurant",
+                                    "pluralName": "American Restaurants",
+                                    "shortName": "American",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4eb6e73102d5f33e9330b487-6"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ca2261ee44d6dcbdb7d0475",
+                            "name": "Caf\u00e9s Arrivederci",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle Augusto Figueroa",
+                                "lat": 40.42239983850301,
+                                "lng": -3.6984653209661364,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42239983850301,
+                                        "lng": -3.6984653209661364
+                                    }
+                                ],
+                                "distance": 80,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle Augusto Figueroa",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16d941735",
+                                    "name": "Caf\u00e9",
+                                    "pluralName": "Caf\u00e9s",
+                                    "shortName": "Caf\u00e9",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4ca2261ee44d6dcbdb7d0475-7"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e7f04f44690deb1cd2c35bd",
+                            "name": "La Panaderia de Chueca",
+                            "contact": {},
+                            "location": {
+                                "address": "C. San Gregorio, 1",
+                                "crossStreet": "Pl. de Chueca",
+                                "lat": 40.423086857922954,
+                                "lng": -3.697484191788935,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.423086857922954,
+                                        "lng": -3.697484191788935
+                                    }
+                                ],
+                                "distance": 42,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. San Gregorio, 1 (Pl. de Chueca)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16a941735",
+                                    "name": "Bakery",
+                                    "pluralName": "Bakeries",
+                                    "shortName": "Bakery",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "59554968"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4e7f04f44690deb1cd2c35bd-8"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "571a1d3b498e040231f62ca0",
+                            "name": "Sr. Ito",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle Pelayo 60",
+                                "lat": 40.42419418250838,
+                                "lng": -3.697464102646731,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42419418250838,
+                                        "lng": -3.697464102646731
+                                    }
+                                ],
+                                "distance": 165,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle Pelayo 60",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1d2941735",
+                                    "name": "Sushi Restaurant",
+                                    "pluralName": "Sushi Restaurants",
+                                    "shortName": "Sushi",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-571a1d3b498e040231f62ca0-9"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5973a95ff0ca95364b30444a",
+                            "name": "Morgana",
+                            "contact": {},
+                            "location": {
+                                "crossStreet": "Augusto figueroa 33",
+                                "lat": 40.422215,
+                                "lng": -3.697813,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422215,
+                                        "lng": -3.697813
+                                    }
+                                ],
+                                "distance": 58,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Augusto figueroa 33",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5973a95ff0ca95364b30444a-10"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "52ac5d20498e11753a8cde9d",
+                            "name": "Izakaya Han",
+                            "contact": {},
+                            "location": {
+                                "address": "San Bartolome 10",
+                                "crossStreet": "Augusto Figueroa",
+                                "lat": 40.421818886748916,
+                                "lng": -3.698475072010201,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421818886748916,
+                                        "lng": -3.698475072010201
+                                    }
+                                ],
+                                "distance": 123,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "San Bartolome 10 (Augusto Figueroa)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d111941735",
+                                    "name": "Japanese Restaurant",
+                                    "pluralName": "Japanese Restaurants",
+                                    "shortName": "Japanese",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-52ac5d20498e11753a8cde9d-11"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4adcda35f964a520873b21e3",
+                            "name": "El Cisne Azul",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Gravina, 19",
+                                "lat": 40.4226125570602,
+                                "lng": -3.696732565805115,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.4226125570602,
+                                        "lng": -3.696732565805115
+                                    }
+                                ],
+                                "distance": 75,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "neighborhood": "Chueca",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Gravina, 19",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4adcda35f964a520873b21e3-12"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e0e58c522711665f6143740",
+                            "name": "La alacena de Victor Montes (mercado de San Anton)",
+                            "contact": {},
+                            "location": {
+                                "address": "Augusto Figueroa 24",
+                                "lat": 40.4219552461371,
+                                "lng": -3.6975662393915534,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.4219552461371,
+                                        "lng": -3.6975662393915534
+                                    }
+                                ],
+                                "distance": 84,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Augusto Figueroa 24",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d146941735",
+                                    "name": "Deli / Bodega",
+                                    "pluralName": "Delis / Bodegas",
+                                    "shortName": "Deli / Bodega",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4e0e58c522711665f6143740-13"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "53470140498e451f8db8fe62",
+                            "name": "Bosco de Lobos",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Hortaleza, 63",
+                                "crossStreet": "C. Farmacia",
+                                "lat": 40.424150785649374,
+                                "lng": -3.6990139940797278,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.424150785649374,
+                                        "lng": -3.6990139940797278
+                                    }
+                                ],
+                                "distance": 199,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "neighborhood": "Chueca",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Hortaleza, 63 (C. Farmacia)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d110941735",
+                                    "name": "Italian Restaurant",
+                                    "pluralName": "Italian Restaurants",
+                                    "shortName": "Italian",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-53470140498e451f8db8fe62-14"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "53c1b62a498eb5bf28f996bd",
+                            "name": "Mal de Amores",
+                            "contact": {},
+                            "location": {
+                                "address": "Valgame Dios, 4",
+                                "lat": 40.42225718566712,
+                                "lng": -3.6966339163444717,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42225718566712,
+                                        "lng": -3.6966339163444717
+                                    }
+                                ],
+                                "distance": 96,
+                                "cc": "ES",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Valgame Dios, 4",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-53c1b62a498eb5bf28f996bd-15"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5ad7b014cbcdee2fde75ed0b",
+                            "name": "Hot Now",
+                            "contact": {},
+                            "location": {
+                                "address": "barbieri 14",
+                                "lat": 40.421317,
+                                "lng": -3.69803,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421317,
+                                        "lng": -3.69803
+                                    }
+                                ],
+                                "distance": 159,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "barbieri 14",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1ca941735",
+                                    "name": "Pizza Place",
+                                    "pluralName": "Pizza Places",
+                                    "shortName": "Pizza",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5ad7b014cbcdee2fde75ed0b-16"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b72b3f5f964a52078842de3",
+                            "name": "Tienda de Vinos (El Comunista)",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Augusto Figueroa, 35",
+                                "lat": 40.42214174422174,
+                                "lng": -3.6974815605101155,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42214174422174,
+                                        "lng": -3.6974815605101155
+                                    }
+                                ],
+                                "distance": 64,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Augusto Figueroa, 35",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b72b3f5f964a52078842de3-17"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4adcda39f964a520cd3c21e3",
+                            "name": "La Carmencita",
+                            "contact": {},
+                            "location": {
+                                "address": "C. de la Libertad, 16",
+                                "lat": 40.42126199404328,
+                                "lng": -3.6972917841088693,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42126199404328,
+                                        "lng": -3.6972917841088693
+                                    }
+                                ],
+                                "distance": 163,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. de la Libertad, 16",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4adcda39f964a520cd3c21e3-18"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b58b3eef964a520836628e3",
+                            "name": "Baco y Beto",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle de Pelayo, 24",
+                                "lat": 40.422752009461526,
+                                "lng": -3.698509156210323,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422752009461526,
+                                        "lng": -3.698509156210323
+                                    }
+                                ],
+                                "distance": 76,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle de Pelayo, 24",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b58b3eef964a520836628e3-19"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c090f92009a0f47230ae7bf",
+                            "name": "Restaurante Vegaviana",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Pelayo, 35",
+                                "lat": 40.42327219098249,
+                                "lng": -3.69815135043315,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42327219098249,
+                                        "lng": -3.69815135043315
+                                    }
+                                ],
+                                "distance": 77,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Pelayo, 35",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1d3941735",
+                                    "name": "Vegetarian / Vegan Restaurant",
+                                    "pluralName": "Vegetarian / Vegan Restaurants",
+                                    "shortName": "Vegetarian / Vegan",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4c090f92009a0f47230ae7bf-20"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "581a411bd0b97a20be302026",
+                            "name": "RESTAURANTE KRITIKOS",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle San Gregorio 11",
+                                "lat": 40.4236788,
+                                "lng": -3.6973335000000134,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.4236788,
+                                        "lng": -3.6973335000000134
+                                    }
+                                ],
+                                "distance": 110,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle San Gregorio 11",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d10e941735",
+                                    "name": "Greek Restaurant",
+                                    "pluralName": "Greek Restaurants",
+                                    "shortName": "Greek",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "360053217"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-581a411bd0b97a20be302026-21"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "591ffe425d0fea5ae1445497",
+                            "name": "Aloha Pok\u00e9",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle de la Libertad 17",
+                                "lat": 40.42113511381703,
+                                "lng": -3.6973795495793205,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42113511381703,
+                                        "lng": -3.6973795495793205
+                                    }
+                                ],
+                                "distance": 176,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle de la Libertad 17",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "52e81612bcbc57f1066b79fe",
+                                    "name": "Hawaiian Restaurant",
+                                    "pluralName": "Hawaiian Restaurants",
+                                    "shortName": "Hawaiian",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "423049614"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-591ffe425d0fea5ae1445497-22"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c4b4ffef7cc1b8d3371b73f",
+                            "name": "Vivares",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Hortaleza, 52",
+                                "crossStreet": "C. de Pelayo",
+                                "lat": 40.422396252036314,
+                                "lng": -3.6994208517652574,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422396252036314,
+                                        "lng": -3.6994208517652574
+                                    }
+                                ],
+                                "distance": 157,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Hortaleza, 52 (C. de Pelayo)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4c4b4ffef7cc1b8d3371b73f-23"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "55cb69be498e3c20da3ef6f5",
+                            "name": "Boho Bar",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Colmenares, 13",
+                                "crossStreet": "C. San Marcos",
+                                "lat": 40.42119008484262,
+                                "lng": -3.696839788805677,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42119008484262,
+                                        "lng": -3.696839788805677
+                                    }
+                                ],
+                                "distance": 181,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Colmenares, 13 (C. San Marcos)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-55cb69be498e3c20da3ef6f5-24"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "55324cbb498e151e37dd7505",
+                            "name": "Fit Food",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Augusto Figueroa, 28",
+                                "crossStreet": "C. Libertad",
+                                "lat": 40.42215861775813,
+                                "lng": -3.696966733547483,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42215861775813,
+                                        "lng": -3.696966733547483
+                                    }
+                                ],
+                                "distance": 82,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Augusto Figueroa, 28 (C. Libertad)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d146941735",
+                                    "name": "Deli / Bodega",
+                                    "pluralName": "Delis / Bodegas",
+                                    "shortName": "Deli / Bodega",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "132316091"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-55324cbb498e151e37dd7505-25"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e0b92f118a83181d422508a",
+                            "name": "La Candelita",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Barquillo, 30",
+                                "lat": 40.422774434672846,
+                                "lng": -3.695580591064091,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422774434672846,
+                                        "lng": -3.695580591064091
+                                    }
+                                ],
+                                "distance": 172,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Barquillo, 30",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1be941735",
+                                    "name": "Latin American Restaurant",
+                                    "pluralName": "Latin American Restaurants",
+                                    "shortName": "Latin American",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/latinamerican_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "69448395"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4e0b92f118a83181d422508a-26"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5b191b9523a2e6002c2f9966",
+                            "name": "Roostiq",
+                            "contact": {},
+                            "location": {
+                                "address": "47 Calle de Augusto Figueroa",
+                                "lat": 40.422035,
+                                "lng": -3.696219,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422035,
+                                        "lng": -3.696219
+                                    }
+                                ],
+                                "distance": 139,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "47 Calle de Augusto Figueroa",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5b191b9523a2e6002c2f9966-27"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5221ff9d8bbd729e36282560",
+                            "name": "7 Delicatessen",
+                            "contact": {},
+                            "location": {
+                                "address": "Mercado de San Ant\u00f3n",
+                                "crossStreet": "C. Augusto Figueroa, 24",
+                                "lat": 40.42196450098142,
+                                "lng": -3.697572648525238,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42196450098142,
+                                        "lng": -3.697572648525238
+                                    }
+                                ],
+                                "distance": 83,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Mercado de San Ant\u00f3n (C. Augusto Figueroa, 24)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5221ff9d8bbd729e36282560-28"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5343fd9111d2859e1715a98d",
+                            "name": "le coc\u00f3",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Barbieri, 15",
+                                "lat": 40.42160429601288,
+                                "lng": -3.697959956085206,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42160429601288,
+                                        "lng": -3.697959956085206
+                                    }
+                                ],
+                                "distance": 126,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Barbieri, 15",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "52e81612bcbc57f1066b79f1",
+                                    "name": "Bistro",
+                                    "pluralName": "Bistros",
+                                    "shortName": "Bistro",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5343fd9111d2859e1715a98d-29"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c46099ff1b5c9b6944c78ef",
+                            "name": "San Wich",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Hortaleza, 78",
+                                "lat": 40.42345933650479,
+                                "lng": -3.6987347226235188,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42345933650479,
+                                        "lng": -3.6987347226235188
+                                    }
+                                ],
+                                "distance": 126,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Hortaleza, 78",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c5941735",
+                                    "name": "Sandwich Place",
+                                    "pluralName": "Sandwich Places",
+                                    "shortName": "Sandwiches",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4c46099ff1b5c9b6944c78ef-30"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5abe40873c858d57567ab8ed",
+                            "name": "La Buha",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle Pelayo",
+                                "lat": 40.423134,
+                                "lng": -3.69815,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.423134,
+                                        "lng": -3.69815
+                                    }
+                                ],
+                                "distance": 65,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle Pelayo",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1db931735",
+                                    "name": "Tapas Restaurant",
+                                    "pluralName": "Tapas Restaurants",
+                                    "shortName": "Tapas",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5abe40873c858d57567ab8ed-31"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4f08c559e4b0e624d77e9318",
+                            "name": "Dionisos",
+                            "contact": {},
+                            "location": {
+                                "address": "Augusto Figueroa 8",
+                                "lat": 40.4228785381634,
+                                "lng": -3.699817259142709,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.4228785381634,
+                                        "lng": -3.699817259142709
+                                    }
+                                ],
+                                "distance": 188,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Augusto Figueroa 8",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d10e941735",
+                                    "name": "Greek Restaurant",
+                                    "pluralName": "Greek Restaurants",
+                                    "shortName": "Greek",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/greek_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4f08c559e4b0e624d77e9318-32"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c5d44759b28d13a680e5970",
+                            "name": "Xanacuk",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Augusto Figueroa",
+                                "lat": 40.42288737215488,
+                                "lng": -3.6997711672466655,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42288737215488,
+                                        "lng": -3.6997711672466655
+                                    }
+                                ],
+                                "distance": 184,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Augusto Figueroa",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4c5d44759b28d13a680e5970-33"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b7555b4f964a520e5062ee3",
+                            "name": "Al Vac\u00edo",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Colmenares, 13",
+                                "lat": 40.42110545805447,
+                                "lng": -3.6967437786407955,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42110545805447,
+                                        "lng": -3.6967437786407955
+                                    }
+                                ],
+                                "distance": 193,
+                                "postalCode": "28014",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Colmenares, 13",
+                                    "28014 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b7555b4f964a520e5062ee3-34"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "58bab492cc05d1615703e600",
+                            "name": "Massa Pizza",
+                            "contact": {},
+                            "location": {
+                                "address": "Augusto Figueroa, 21",
+                                "lat": 40.422638,
+                                "lng": -3.699032,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422638,
+                                        "lng": -3.699032
+                                    }
+                                ],
+                                "distance": 120,
+                                "cc": "ES",
+                                "city": "Madrid City Center",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Augusto Figueroa, 21",
+                                    "Madrid Centro Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-58bab492cc05d1615703e600-35"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b55a8d4f964a520c5ea27e3",
+                            "name": "Tepic",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Pelayo, 4",
+                                "lat": 40.421905539105566,
+                                "lng": -3.699123067670385,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421905539105566,
+                                        "lng": -3.699123067670385
+                                    }
+                                ],
+                                "distance": 156,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Pelayo, 4",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c1941735",
+                                    "name": "Mexican Restaurant",
+                                    "pluralName": "Mexican Restaurants",
+                                    "shortName": "Mexican",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b55a8d4f964a520c5ea27e3-36"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5532b7a9498e944a9f268b2e",
+                            "name": "Gioia Restaurante",
+                            "contact": {},
+                            "location": {
+                                "address": "San Bartolom\u00e9 23",
+                                "lat": 40.422075,
+                                "lng": -3.69859,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422075,
+                                        "lng": -3.69859
+                                    }
+                                ],
+                                "distance": 109,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "San Bartolom\u00e9 23",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d110941735",
+                                    "name": "Italian Restaurant",
+                                    "pluralName": "Italian Restaurants",
+                                    "shortName": "Italian",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5532b7a9498e944a9f268b2e-37"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4fc22c42e4b09ab6886996c2",
+                            "name": "Arepa Ol\u00e9 \"Chueca\"",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Pelayo, 2",
+                                "lat": 40.42178698102328,
+                                "lng": -3.6992083295172167,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42178698102328,
+                                        "lng": -3.6992083295172167
+                                    }
+                                ],
+                                "distance": 170,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Pelayo, 2",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d152941735",
+                                    "name": "Arepa Restaurant",
+                                    "pluralName": "Arepa Restaurants",
+                                    "shortName": "Arepas",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/arepas_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "47887543"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4fc22c42e4b09ab6886996c2-38"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4adcda3af964a520523d21e3",
+                            "name": "Bazaar",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Libertad, 21",
+                                "lat": 40.421289934462294,
+                                "lng": -3.697392702478642,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421289934462294,
+                                        "lng": -3.697392702478642
+                                    }
+                                ],
+                                "distance": 159,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Libertad, 21",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c0941735",
+                                    "name": "Mediterranean Restaurant",
+                                    "pluralName": "Mediterranean Restaurants",
+                                    "shortName": "Mediterranean",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4adcda3af964a520523d21e3-39"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e11bb65aeb74afe60bf6969",
+                            "name": "B&B Restaurante",
+                            "contact": {},
+                            "location": {
+                                "address": "C/ Libertad 23",
+                                "lat": 40.42138395009756,
+                                "lng": -3.697403436783447,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42138395009756,
+                                        "lng": -3.697403436783447
+                                    }
+                                ],
+                                "distance": 148,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C/ Libertad 23",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16c941735",
+                                    "name": "Burger Joint",
+                                    "pluralName": "Burger Joints",
+                                    "shortName": "Burgers",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4e11bb65aeb74afe60bf6969-40"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "519b80c2498ec92af5e14080",
+                            "name": "Cocinadeldesierto",
+                            "contact": {},
+                            "location": {
+                                "lat": 40.421026142572885,
+                                "lng": -3.697432464744532,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421026142572885,
+                                        "lng": -3.697432464744532
+                                    }
+                                ],
+                                "distance": 188,
+                                "cc": "ES",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c4941735",
+                                    "name": "Restaurant",
+                                    "pluralName": "Restaurants",
+                                    "shortName": "Restaurant",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-519b80c2498ec92af5e14080-41"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "54ff6eb3498e5b0e025a632f",
+                            "name": "Restaurante Vietnam24",
+                            "contact": {},
+                            "location": {
+                                "address": "Calle de San Marcos 24",
+                                "lat": 40.42134100000001,
+                                "lng": -3.698427999999999,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42134100000001,
+                                        "lng": -3.698427999999999
+                                    }
+                                ],
+                                "distance": 167,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Calle de San Marcos 24",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d14a941735",
+                                    "name": "Vietnamese Restaurant",
+                                    "pluralName": "Vietnamese Restaurants",
+                                    "shortName": "Vietnamese",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vietnamese_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "553047231"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-54ff6eb3498e5b0e025a632f-42"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5517152f498eba3fc8b760f4",
+                            "name": "tuk tuk",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Barquillo, 24",
+                                "lat": 40.42255008627129,
+                                "lng": -3.6956102723972575,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42255008627129,
+                                        "lng": -3.6956102723972575
+                                    }
+                                ],
+                                "distance": 170,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Barquillo, 24",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d142941735",
+                                    "name": "Asian Restaurant",
+                                    "pluralName": "Asian Restaurants",
+                                    "shortName": "Asian",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-5517152f498eba3fc8b760f4-43"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4da623936a23f2e80501b9dc",
+                            "name": "Taberna El Buo",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Gravina, 4",
+                                "crossStreet": "C. Pelayo",
+                                "lat": 40.423217770388675,
+                                "lng": -3.6981833739403243,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.423217770388675,
+                                        "lng": -3.6981833739403243
+                                    }
+                                ],
+                                "distance": 74,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Gravina, 4 (C. Pelayo)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1db931735",
+                                    "name": "Tapas Restaurant",
+                                    "pluralName": "Tapas Restaurants",
+                                    "shortName": "Tapas",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4da623936a23f2e80501b9dc-44"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b75e1eff964a520e02b2ee3",
+                            "name": "Restaurante Arce",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Augusto Figueroa, 32",
+                                "lat": 40.42207258933475,
+                                "lng": -3.6967412061319482,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42207258933475,
+                                        "lng": -3.6967412061319482
+                                    }
+                                ],
+                                "distance": 102,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Augusto Figueroa, 32",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b75e1eff964a520e02b2ee3-45"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b82aafcf964a5206add30e3",
+                            "name": "Diurno Restaurant & Bar",
+                            "contact": {},
+                            "location": {
+                                "address": "C. San Marcos, 37",
+                                "crossStreet": "C. Libertad",
+                                "lat": 40.421299901405845,
+                                "lng": -3.6973373782873447,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421299901405845,
+                                        "lng": -3.6973373782873447
+                                    }
+                                ],
+                                "distance": 158,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. San Marcos, 37 (C. Libertad)",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c0941735",
+                                    "name": "Mediterranean Restaurant",
+                                    "pluralName": "Mediterranean Restaurants",
+                                    "shortName": "Mediterranean",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "76245254"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4b82aafcf964a5206add30e3-46"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "538c87ed498e5e2ed88ad97b",
+                            "name": "TE CATO",
+                            "contact": {},
+                            "location": {
+                                "address": "Gravina 12",
+                                "lat": 40.422849,
+                                "lng": -3.697099,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422849,
+                                        "lng": -3.697099
+                                    }
+                                ],
+                                "distance": 45,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Gravina 12",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16d941735",
+                                    "name": "Caf\u00e9",
+                                    "pluralName": "Caf\u00e9s",
+                                    "shortName": "Caf\u00e9",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-538c87ed498e5e2ed88ad97b-47"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e61fdbda80951b3184c3896",
+                            "name": "Bagatella",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Pelayo, 60",
+                                "lat": 40.42418217330663,
+                                "lng": -3.6974761592418637,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.42418217330663,
+                                        "lng": -3.6974761592418637
+                                    }
+                                ],
+                                "distance": 163,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Pelayo, 60",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d150941735",
+                                    "name": "Spanish Restaurant",
+                                    "pluralName": "Spanish Restaurants",
+                                    "shortName": "Spanish",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/spanish_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4e61fdbda80951b3184c3896-48"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4dd796e18877f1150fecd530",
+                            "name": "Hamburguesa Nostra",
+                            "contact": {},
+                            "location": {
+                                "address": "Mercado de San Ant\u00f3n",
+                                "lat": 40.422026687490394,
+                                "lng": -3.697647396217567,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.422026687490394,
+                                        "lng": -3.697647396217567
+                                    }
+                                ],
+                                "distance": 76,
+                                "postalCode": "28004",
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "Mercado de San Ant\u00f3n",
+                                    "28004 Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16c941735",
+                                    "name": "Burger Joint",
+                                    "pluralName": "Burger Joints",
+                                    "shortName": "Burgers",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-4dd796e18877f1150fecd530-49"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "51d484c3498e003d2f954108",
+                            "name": "La Trastienda",
+                            "contact": {},
+                            "location": {
+                                "address": "C. Augusto Figueroa, 24",
+                                "lat": 40.421973,
+                                "lng": -3.697602,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.421973,
+                                        "lng": -3.697602
+                                    }
+                                ],
+                                "distance": 82,
+                                "cc": "ES",
+                                "city": "Madrid",
+                                "state": "Madrid",
+                                "country": "Espa\u00f1a",
+                                "formattedAddress": [
+                                    "C. Augusto Figueroa, 24",
+                                    "Madrid Madrid",
+                                    "Espa\u00f1a"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1db931735",
+                                    "name": "Tapas Restaurant",
+                                    "pluralName": "Tapas Restaurants",
+                                    "shortName": "Tapas",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-3-51d484c3498e003d2f954108-50"
+                    }
+                ]
+            }
+        ]
+    }
+}

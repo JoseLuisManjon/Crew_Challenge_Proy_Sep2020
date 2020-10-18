@@ -1,5 +1,5 @@
-{
-    "0": {
+[
+    {
         "Restaurant": "Kuoco 360",
         "Style": "Restaurants",
         "Address": [
@@ -10,7 +10,7 @@
         "latitude": 40.421841757,
         "lomgitude": -3.698455902
     },
-    "1": {
+    {
         "Restaurant": "Bunny's Deli",
         "Style": "Vegetarian / Vegan Restaurants",
         "Address": [
@@ -21,7 +21,7 @@
         "latitude": 40.423935,
         "lomgitude": -3.6971583
     },
-    "2": {
+    {
         "Restaurant": "Pizzaiolo",
         "Style": "Italian Restaurants",
         "Address": [
@@ -32,7 +32,7 @@
         "latitude": 40.4237953472,
         "lomgitude": -3.6985973307
     },
-    "3": {
+    {
         "Restaurant": "Vides",
         "Style": "Gastropubs",
         "Address": [
@@ -43,7 +43,7 @@
         "latitude": 40.4210165238,
         "lomgitude": -3.6973542003
     },
-    "4": {
+    {
         "Restaurant": "Food Truck",
         "Style": "American Restaurants",
         "Address": [
@@ -54,7 +54,7 @@
         "latitude": 40.4238155756,
         "lomgitude": -3.6960864532
     },
-    "5": {
+    {
         "Restaurant": "Sr. Ito",
         "Style": "Sushi Restaurants",
         "Address": [
@@ -65,7 +65,7 @@
         "latitude": 40.4241941825,
         "lomgitude": -3.6974641026
     },
-    "6": {
+    {
         "Restaurant": "Morgana",
         "Style": "Restaurants",
         "Address": [
@@ -76,7 +76,7 @@
         "latitude": 40.422215,
         "lomgitude": -3.697813
     },
-    "7": {
+    {
         "Restaurant": "Izakaya Han",
         "Style": "Japanese Restaurants",
         "Address": [
@@ -87,7 +87,7 @@
         "latitude": 40.4218188867,
         "lomgitude": -3.698475072
     },
-    "8": {
+    {
         "Restaurant": "El Cisne Azul",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -98,7 +98,7 @@
         "latitude": 40.4226125571,
         "lomgitude": -3.6967325658
     },
-    "9": {
+    {
         "Restaurant": "Bosco de Lobos",
         "Style": "Italian Restaurants",
         "Address": [
@@ -109,7 +109,7 @@
         "latitude": 40.4241507856,
         "lomgitude": -3.6990139941
     },
-    "10": {
+    {
         "Restaurant": "Mal de Amores",
         "Style": "Restaurants",
         "Address": [
@@ -119,7 +119,7 @@
         "latitude": 40.4222571857,
         "lomgitude": -3.6966339163
     },
-    "11": {
+    {
         "Restaurant": "Hot Now",
         "Style": "Pizza Places",
         "Address": [
@@ -130,7 +130,7 @@
         "latitude": 40.421317,
         "lomgitude": -3.69803
     },
-    "12": {
+    {
         "Restaurant": "Tienda de Vinos (El Comunista)",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -141,7 +141,7 @@
         "latitude": 40.4221417442,
         "lomgitude": -3.6974815605
     },
-    "13": {
+    {
         "Restaurant": "La Carmencita",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -152,7 +152,7 @@
         "latitude": 40.421261994,
         "lomgitude": -3.6972917841
     },
-    "14": {
+    {
         "Restaurant": "Baco y Beto",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -163,7 +163,7 @@
         "latitude": 40.4227520095,
         "lomgitude": -3.6985091562
     },
-    "15": {
+    {
         "Restaurant": "Restaurante Vegaviana",
         "Style": "Vegetarian / Vegan Restaurants",
         "Address": [
@@ -174,7 +174,7 @@
         "latitude": 40.423272191,
         "lomgitude": -3.6981513504
     },
-    "16": {
+    {
         "Restaurant": "RESTAURANTE KRITIKOS",
         "Style": "Greek Restaurants",
         "Address": [
@@ -185,7 +185,7 @@
         "latitude": 40.4236788,
         "lomgitude": -3.6973335
     },
-    "17": {
+    {
         "Restaurant": "Aloha Pok\u00e9",
         "Style": "Hawaiian Restaurants",
         "Address": [
@@ -196,7 +196,7 @@
         "latitude": 40.4211351138,
         "lomgitude": -3.6973795496
     },
-    "18": {
+    {
         "Restaurant": "Vivares",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -207,7 +207,7 @@
         "latitude": 40.422396252,
         "lomgitude": -3.6994208518
     },
-    "19": {
+    {
         "Restaurant": "Boho Bar",
         "Style": "Restaurants",
         "Address": [
@@ -218,7 +218,7 @@
         "latitude": 40.4211900848,
         "lomgitude": -3.6968397888
     },
-    "20": {
+    {
         "Restaurant": "La Candelita",
         "Style": "Latin American Restaurants",
         "Address": [
@@ -229,7 +229,7 @@
         "latitude": 40.4227744347,
         "lomgitude": -3.6955805911
     },
-    "21": {
+    {
         "Restaurant": "Roostiq",
         "Style": "Restaurants",
         "Address": [
@@ -240,7 +240,7 @@
         "latitude": 40.422035,
         "lomgitude": -3.696219
     },
-    "22": {
+    {
         "Restaurant": "7 Delicatessen",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -251,7 +251,7 @@
         "latitude": 40.421964501,
         "lomgitude": -3.6975726485
     },
-    "23": {
+    {
         "Restaurant": "le coc\u00f3",
         "Style": "Bistros",
         "Address": [
@@ -262,7 +262,7 @@
         "latitude": 40.421604296,
         "lomgitude": -3.6979599561
     },
-    "24": {
+    {
         "Restaurant": "San Wich",
         "Style": "Sandwich Places",
         "Address": [
@@ -273,7 +273,7 @@
         "latitude": 40.4234593365,
         "lomgitude": -3.6987347226
     },
-    "25": {
+    {
         "Restaurant": "La Buha",
         "Style": "Tapas Restaurants",
         "Address": [
@@ -284,7 +284,7 @@
         "latitude": 40.423134,
         "lomgitude": -3.69815
     },
-    "26": {
+    {
         "Restaurant": "Dionisos",
         "Style": "Greek Restaurants",
         "Address": [
@@ -295,7 +295,7 @@
         "latitude": 40.4228785382,
         "lomgitude": -3.6998172591
     },
-    "27": {
+    {
         "Restaurant": "Xanacuk",
         "Style": "Restaurants",
         "Address": [
@@ -306,7 +306,7 @@
         "latitude": 40.4228873722,
         "lomgitude": -3.6997711672
     },
-    "28": {
+    {
         "Restaurant": "Al Vac\u00edo",
         "Style": "Restaurants",
         "Address": [
@@ -317,7 +317,7 @@
         "latitude": 40.4211054581,
         "lomgitude": -3.6967437786
     },
-    "29": {
+    {
         "Restaurant": "Massa Pizza",
         "Style": "Restaurants",
         "Address": [
@@ -328,7 +328,7 @@
         "latitude": 40.422638,
         "lomgitude": -3.699032
     },
-    "30": {
+    {
         "Restaurant": "Tepic",
         "Style": "Mexican Restaurants",
         "Address": [
@@ -339,7 +339,7 @@
         "latitude": 40.4219055391,
         "lomgitude": -3.6991230677
     },
-    "31": {
+    {
         "Restaurant": "Gioia Restaurante",
         "Style": "Italian Restaurants",
         "Address": [
@@ -350,7 +350,7 @@
         "latitude": 40.422075,
         "lomgitude": -3.69859
     },
-    "32": {
+    {
         "Restaurant": "Arepa Ol\u00e9 \"Chueca\"",
         "Style": "Arepa Restaurants",
         "Address": [
@@ -361,7 +361,7 @@
         "latitude": 40.421786981,
         "lomgitude": -3.6992083295
     },
-    "33": {
+    {
         "Restaurant": "Bazaar",
         "Style": "Mediterranean Restaurants",
         "Address": [
@@ -372,7 +372,7 @@
         "latitude": 40.4212899345,
         "lomgitude": -3.6973927025
     },
-    "34": {
+    {
         "Restaurant": "B&B Restaurante",
         "Style": "Burger Joints",
         "Address": [
@@ -383,7 +383,7 @@
         "latitude": 40.4213839501,
         "lomgitude": -3.6974034368
     },
-    "35": {
+    {
         "Restaurant": "Restaurante Vietnam24",
         "Style": "Vietnamese Restaurants",
         "Address": [
@@ -394,7 +394,7 @@
         "latitude": 40.421341,
         "lomgitude": -3.698428
     },
-    "36": {
+    {
         "Restaurant": "tuk tuk",
         "Style": "Asian Restaurants",
         "Address": [
@@ -405,7 +405,7 @@
         "latitude": 40.4225500863,
         "lomgitude": -3.6956102724
     },
-    "37": {
+    {
         "Restaurant": "Taberna El Buo",
         "Style": "Tapas Restaurants",
         "Address": [
@@ -416,7 +416,7 @@
         "latitude": 40.4232177704,
         "lomgitude": -3.6981833739
     },
-    "38": {
+    {
         "Restaurant": "Restaurante Arce",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -427,7 +427,7 @@
         "latitude": 40.4220725893,
         "lomgitude": -3.6967412061
     },
-    "39": {
+    {
         "Restaurant": "Diurno Restaurant & Bar",
         "Style": "Mediterranean Restaurants",
         "Address": [
@@ -438,7 +438,7 @@
         "latitude": 40.4212999014,
         "lomgitude": -3.6973373783
     },
-    "40": {
+    {
         "Restaurant": "Bagatella",
         "Style": "Spanish Restaurants",
         "Address": [
@@ -449,7 +449,7 @@
         "latitude": 40.4241821733,
         "lomgitude": -3.6974761592
     },
-    "41": {
+    {
         "Restaurant": "Hamburguesa Nostra",
         "Style": "Burger Joints",
         "Address": [
@@ -460,7 +460,7 @@
         "latitude": 40.4220266875,
         "lomgitude": -3.6976473962
     },
-    "42": {
+    {
         "Restaurant": "La Trastienda",
         "Style": "Tapas Restaurants",
         "Address": [
@@ -471,4 +471,4 @@
         "latitude": 40.421973,
         "lomgitude": -3.697602
     }
-}
+]

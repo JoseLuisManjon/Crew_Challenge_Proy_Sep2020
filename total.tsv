@@ -1,0 +1,806 @@
+	restaurante	seccion	platos	precios	platos_lower	seccion_lower
+0	7 Delicatessen	Entrante	Ensalada de queso de cabra con naranja agria al cava	8,5 €	ensalada de queso de cabra con naranja agria al cava	entrante
+1	7 Delicatessen	Entrante	Tortilla de patata con cebolla caramelizada	8 €	tortilla de patata con cebolla caramelizada	entrante
+2	7 Delicatessen	Entrante	Ensalada de foie y cebolla caramelizada	8,5 €	ensalada de foie y cebolla caramelizada	entrante
+3	7 Delicatessen	Plato	Pollo yakitori	8 €	pollo yakitori	plato
+4	7 Delicatessen	Plato	Pizza de gambón y chile confitado	8,5 €	pizza de gambón y chile confitado	plato
+5	7 Delicatessen	Plato	Rissoto de boletus	9 €	rissoto de boletus	plato
+6	7 Delicatessen	Postre	Bizcocho de chocolate y vino tinto con helado de turrón y lluvia de natillas	5 €	bizcocho de chocolate y vino tinto con helado de turrón y lluvia de natillas	postre
+7	7 Delicatessen	Postre	Leche frita	3 €	leche frita	postre
+8	7 Delicatessen	Postre	Muerte por chocolate	3 €	muerte por chocolate	postre
+9	7 Delicatessen	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+10	7 Delicatessen	seccion_bebidas	Botella de agua	3,5 €	botella de agua	seccion_bebidas
+11	7 Delicatessen	seccion_bebidas	Media botella de agua	2,5 €	media botella de agua	seccion_bebidas
+12	7 Delicatessen	seccion_bebidas	Botella de vino	13 €	botella de vino	seccion_bebidas
+13	7 Delicatessen	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	Aloha Poké	Entrante	Gazpacho	5 €	gazpacho	entrante
+1	Aloha Poké	Entrante	Hummus	5,5 €	hummus	entrante
+2	Aloha Poké	Entrante	Ensalada del día	8,5 €	ensalada del día	entrante
+3	Aloha Poké	Plato	Poke Mexico	10,9 €	poke mexico	plato
+4	Aloha Poké	Plato	Poke Pperú	10,9 €	poke pperú	plato
+5	Aloha Poké	Plato	Thai	10,9 €	thai	plato
+6	Aloha Poké	Postre	Blueberry cheescake	3,9 €	blueberry cheescake	postre
+7	Aloha Poké	Postre	Brownie aguacate	3,9 €	brownie aguacate	postre
+8	Aloha Poké	Postre	Panacotta	3,5 €	panacotta	postre
+9	Aloha Poké	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+10	Aloha Poké	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+11	Aloha Poké	seccion_bebidas	Copa de vino	2,9 €	copa de vino	seccion_bebidas
+0	Bagatella	Entrante	"Selección de Dips: hummus, salmorejo y guacamole con pan artesano y ""crudités"""	9,8 €	"selección de dips: hummus, salmorejo y guacamole con pan artesano y ""crudités"""	entrante
+1	Bagatella	Entrante	Carpaccio de ternera con crema de membrillo y vinagreta de moscatel	9 €	carpaccio de ternera con crema de membrillo y vinagreta de moscatel	entrante
+2	Bagatella	Entrante	Surtido de croquetas de la casa	9 €	surtido de croquetas de la casa	entrante
+3	Bagatella	Plato	Medallones de solomillo o secreto de cerdo ibérico con patatas y ensalada	13,5 €	medallones de solomillo o secreto de cerdo ibérico con patatas y ensalada	plato
+4	Bagatella	Plato	Hamburguesa vegetariana con batata frita al curry y salsa tártara	12 €	hamburguesa vegetariana con batata frita al curry y salsa tártara	plato
+5	Bagatella	Plato	Chipirones a la plancha a nuestra manera	11 €	chipirones a la plancha a nuestra manera	plato
+6	Bagatella	Postre	Volcán de chocolate con helado de violeta	6 €	volcán de chocolate con helado de violeta	postre
+7	Bagatella	Postre	Tarta de queso	4,5 €	tarta de queso	postre
+8	Bagatella	Postre	Tarta húmeda de chocolate con helado de mascarpone y frutos rojos	5,5 €	tarta húmeda de chocolate con helado de mascarpone y frutos rojos	postre
+9	Bagatella	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+10	Bagatella	seccion_bebidas	Botella de agua	1,8 €	botella de agua	seccion_bebidas
+11	Bagatella	seccion_bebidas	Botella de vino	13 €	botella de vino	seccion_bebidas
+12	Bagatella	seccion_bebidas	Copa de vino	2,5 €	copa de vino	seccion_bebidas
+0	Bazaar	Las tapas del BAZAAR para compartir	Berenjenas crujientes a la miel y soja	5,9 €	berenjenas crujientes a la miel y soja	las tapas del bazaar para compartir
+1	Bazaar	Las tapas del BAZAAR para compartir	Croquetas cremosas de chipirones con su tinta	7,95 €	croquetas cremosas de chipirones con su tinta	las tapas del bazaar para compartir
+2	Bazaar	Las tapas del BAZAAR para compartir	Gyozas de verduras con kimchie de fresas y col kale crujiente	6,95 €	gyozas de verduras con kimchie de fresas y col kale crujiente	las tapas del bazaar para compartir
+3	Bazaar	Las tapas del BAZAAR para compartir	Croquetas de setas de temporada	7,75 €	croquetas de setas de temporada	las tapas del bazaar para compartir
+4	Bazaar	Las tapas del BAZAAR para compartir	Tartar de atún estilo Bazaar	8,45 €	tartar de atún estilo bazaar	las tapas del bazaar para compartir
+5	Bazaar	Las tapas del BAZAAR para compartir	Alcachofas blancas de Tudela con langostinos pelados	9,95 €	alcachofas blancas de tudela con langostinos pelados	las tapas del bazaar para compartir
+6	Bazaar	Para entrar con buen pie	Gazpacho andaluz con picatostes y veduritas	5,95 €	gazpacho andaluz con picatostes y veduritas	para entrar con buen pie
+7	Bazaar	Para entrar con buen pie	Ensalada griega con queso feta, cous-cous, pan pita y hummus	7,95 €	ensalada griega con queso feta, cous-cous, pan pita y hummus	para entrar con buen pie
+8	Bazaar	Para entrar con buen pie	Ensalada con virutas de cabra, mango, granola y vinagreta de mie	8,05 €	ensalada con virutas de cabra, mango, granola y vinagreta de mie	para entrar con buen pie
+9	Bazaar	Para entrar con buen pie	Mousse de foie con queso de cabra gratinado	8,65 €	mousse de foie con queso de cabra gratinado	para entrar con buen pie
+10	Bazaar	Para entrar con buen pie	Las tres ensaladas con queso fresco y piñones a la vinagreta de albahaca	8,9 €	las tres ensaladas con queso fresco y piñones a la vinagreta de albahaca	para entrar con buen pie
+11	Bazaar	Para entrar con buen pie	Ensalada de algas marinas con atún y sésamo	8,95 €	ensalada de algas marinas con atún y sésamo	para entrar con buen pie
+12	Bazaar	Para entrar con buen pie	Verdura a la plancha con romesco de nueces	8,9 €	verdura a la plancha con romesco de nueces	para entrar con buen pie
+13	Bazaar	Para entrar con buen pie	Nuestra ensalada especial de huevo pochê con bacon, vinagreta y olivada casera	8,95 €	nuestra ensalada especial de huevo pochê con bacon, vinagreta y olivada casera	para entrar con buen pie
+14	Bazaar	Nuestras pastas y arroces	Macarrones con boloñesa vegana Coreana de shitake y ajetes frescos	7,85 €	macarrones con boloñesa vegana coreana de shitake y ajetes frescos	nuestras pastas y arroces
+15	Bazaar	Nuestras pastas y arroces	Yakisoba de calamar, gambitas, verduras wok y katsoubushi	9,85 €	yakisoba de calamar, gambitas, verduras wok y katsoubushi	nuestras pastas y arroces
+16	Bazaar	Nuestras pastas y arroces	Spaghetti con salsa de gambas picante	8,85 €	spaghetti con salsa de gambas picante	nuestras pastas y arroces
+17	Bazaar	Nuestras pastas y arroces	Risotto de setas con queso parmesano	9,35 €	risotto de setas con queso parmesano	nuestras pastas y arroces
+18	Bazaar	Carnes con carácter...	Tiras de pollo crispie con dos salsas	8,3 €	tiras de pollo crispie con dos salsas	carnes con carácter...
+19	Bazaar	Carnes con carácter...	Pollo al curry con fideos sothangon	9,9 €	pollo al curry con fideos sothangon	carnes con carácter...
+20	Bazaar	Carnes con carácter...	Hamburguesa de ternera con camembert y cebolla bien caramelizada	10,6 €	hamburguesa de ternera con camembert y cebolla bien caramelizada	carnes con carácter...
+21	Bazaar	Carnes con carácter...	Canelón de carrillada de ternera al Pedro Ximénez	11,15 €	canelón de carrillada de ternera al pedro ximénez	carnes con carácter...
+22	Bazaar	Carnes con carácter...	Lomo de ternera con salsa de vino, setas y parmentier de patata	11,6 €	lomo de ternera con salsa de vino, setas y parmentier de patata	carnes con carácter...
+23	Bazaar	Carnes con carácter...	Buey tierno con parmesano, rúcula, cebolla asada y vinagreta balsámica	11,85 €	buey tierno con parmesano, rúcula, cebolla asada y vinagreta balsámica	carnes con carácter...
+24	Bazaar	Carnes con carácter...	Las tres carnes braseadas con fideos Thai	11,95 €	las tres carnes braseadas con fideos thai	carnes con carácter...
+25	Bazaar	Carnes con carácter...	Salsa a elegir: pimienta verde o quesos	1 €	salsa a elegir: pimienta verde o quesos	carnes con carácter...
+26	Bazaar	Productos del mar...	Pulpitos encebollados sobre patatas confitadas	10,95 €	pulpitos encebollados sobre patatas confitadas	productos del mar...
+27	Bazaar	Productos del mar...	Bacalao gratinado con ali-oli de pera	12,65 €	bacalao gratinado con ali-oli de pera	productos del mar...
+28	Bazaar	Productos del mar...	Tataki de atún con tartar de mango, tomate, cilantro y siracha	11,85 €	tataki de atún con tartar de mango, tomate, cilantro y siracha	productos del mar...
+29	Bazaar	Productos del mar...	Salmón a la plancha con trompetas de los muertos, calabacines, ajetes y sal de curri	12,9 €	salmón a la plancha con trompetas de los muertos, calabacines, ajetes y sal de curri	productos del mar...
+30	Bazaar	Productos del mar...	Bacalao confitado con aceite de ajo y sepia	12,85 €	bacalao confitado con aceite de ajo y sepia	productos del mar...
+31	Bazaar	Postre	Mini fondue de chocolate con brochetas de frutas frescas	4,75 €	mini fondue de chocolate con brochetas de frutas frescas	postre
+32	Bazaar	Postre	Sorbete de limón (con cava +1€)	4,9 €	sorbete de limón (con cava +1€)	postre
+33	Bazaar	Postre	Copa mango, mango y mas mango con lima crispie	5,5 €	copa mango, mango y mas mango con lima crispie	postre
+34	Bazaar	Postre	Tarta al chocolate al estilo del señor Patubo	4,6 €	tarta al chocolate al estilo del señor patubo	postre
+35	Bazaar	Postre	Pastel de nueces con chocolate caliente	4,95 €	pastel de nueces con chocolate caliente	postre
+36	Bazaar	Postre	Tarta Sacher con chocolate caliente	5,35 €	tarta sacher con chocolate caliente	postre
+37	Bazaar	Postre	Los íssimos del Bazaar	5,1 €	los íssimos del bazaar	postre
+38	Bazaar	Postre	Tarta de mascarpone con fresas y helado de cacao	5,25 €	tarta de mascarpone con fresas y helado de cacao	postre
+39	Bazaar	Postre	Tarta de queso al coulis de fruta	5,35 €	tarta de queso al coulis de fruta	postre
+40	Bazaar	Postre	Chocolatísimo	5,2 €	chocolatísimo	postre
+41	Bazaar	seccion_bebidas	Café	2 €	café	seccion_bebidas
+42	Bazaar	seccion_bebidas	Media botella de agua	2,2 €	media botella de agua	seccion_bebidas
+43	Bazaar	seccion_bebidas	Botella de vino	14 €	botella de vino	seccion_bebidas
+44	Bazaar	seccion_bebidas	Copa de vino	2,5 €	copa de vino	seccion_bebidas
+0	Boho Bar	Compartir... o no?	May (1 ud) Empanada colombiana, pollo desmechado y ketchup vietnamita	5,2 €	may (1 ud) empanada colombiana, pollo desmechado y ketchup vietnamita	compartir... o no?
+1	Boho Bar	Compartir... o no?	Tequeños (4 uds.) Barritas de queso fundido, mojo canario	8,9 €	tequeños (4 uds.) barritas de queso fundido, mojo canario	compartir... o no?
+2	Boho Bar	Compartir... o no?	Croquetas (8 uds.) Jamón en panko japonés	9,5 €	croquetas (8 uds.) jamón en panko japonés	compartir... o no?
+3	Boho Bar	Compartir... o no?	Lomitos de Sardinas Ahumadas (4 uds.) Pan horneado, crema de salmorejo	9,9 €	lomitos de sardinas ahumadas (4 uds.) pan horneado, crema de salmorejo	compartir... o no?
+4	Boho Bar	Compartir... o no?	Burrata con tartar de tomate y pesto Rosso	12,5 €	burrata con tartar de tomate y pesto rosso	compartir... o no?
+5	Boho Bar	Compartir... o no?	Gyozas Hokkaido (6 uds.) Langostinos, verduras y Salasa Yakiniku	10,5 €	gyozas hokkaido (6 uds.) langostinos, verduras y salasa yakiniku	compartir... o no?
+6	Boho Bar	Compartir... o no?	Pinchos Morunos Ras al Hanut (4 uds.) Pollo, Mojo verde, siracha, yogurt y menta	12,5 €	pinchos morunos ras al hanut (4 uds.) pollo, mojo verde, siracha, yogurt y menta	compartir... o no?
+7	Boho Bar	Compartir... o no?	Primavera Thai (3 uds.) Rollitos de verduras, salsa sweet chili thai	9,5 €	primavera thai (3 uds.) rollitos de verduras, salsa sweet chili thai	compartir... o no?
+8	Boho Bar	Compartir... o no?	Huevos rotos con patatas, trufa, foie y jamón	12 €	huevos rotos con patatas, trufa, foie y jamón	compartir... o no?
+9	Boho Bar	Ensaladas - Zona Fresh :)	Salmorejo (Jamón y huevo)	7,9 €	salmorejo (jamón y huevo)	ensaladas - zona fresh :)
+10	Boho Bar	Ensaladas - Zona Fresh :)	Tabuleh (Cous-cous, queso feta, verduritas y cilantro)	9,5 €	tabuleh (cous-cous, queso feta, verduritas y cilantro)	ensaladas - zona fresh :)
+11	Boho Bar	Ensaladas - Zona Fresh :)	Rojo Pasión (Tomate, fresas, rúcula y aguacate)	9,5 €	rojo pasión (tomate, fresas, rúcula y aguacate)	ensaladas - zona fresh :)
+12	Boho Bar	Ensaladas - Zona Fresh :)	Timbal de langostinos (Espinacas, quinoa, frutos secos, vinagreta de mostaza y miel)	12 €	timbal de langostinos (espinacas, quinoa, frutos secos, vinagreta de mostaza y miel)	ensaladas - zona fresh :)
+13	Boho Bar	Pizza y Pasta	La Perla del Caribe (2 uds) Arepas venezolanas, ropavieja cubana, mahonesa Thai y cilantro	12,5 €	la perla del caribe (2 uds) arepas venezolanas, ropavieja cubana, mahonesa thai y cilantro	pizza y pasta
+14	Boho Bar	Pizza y Pasta	Canelones de Rabo de Toro con bechamel de parmesano	14,5 €	canelones de rabo de toro con bechamel de parmesano	pizza y pasta
+15	Boho Bar	Pizza y Pasta	Coca Pizza de setas y trufa o de jamón	12,5 €	coca pizza de setas y trufa o de jamón	pizza y pasta
+16	Boho Bar	Pizza y Pasta	Pad Thai (Wok de Noodles, langostinos. pollo y cilantro)	12,9 €	pad thai (wok de noodles, langostinos. pollo y cilantro)	pizza y pasta
+17	Boho Bar	Sabor a Mar	Koh Phi Phi Prawns (langostinos, curry thai, coco, piña y arroz jazmín)	14 €	koh phi phi prawns (langostinos, curry thai, coco, piña y arroz jazmín)	sabor a mar
+18	Boho Bar	Sabor a Mar	Tartar de atún al estilo Boho (con aguacate y tartar de tomate)	15 €	tartar de atún al estilo boho (con aguacate y tartar de tomate)	sabor a mar
+19	Boho Bar	Sabor a Mar	Chipirones Umami (Pisto, causa limeña-ibicenca de frutos del bosque y piña asada con salsa Kabayaki)	14,5 €	chipirones umami (pisto, causa limeña-ibicenca de frutos del bosque y piña asada con salsa kabayaki)	sabor a mar
+20	Boho Bar	Sabor a Mar	Akana Poke Bowl (Salmón marinado, verduritas, arroz sushi-zu)	13,5 €	akana poke bowl (salmón marinado, verduritas, arroz sushi-zu)	sabor a mar
+21	Boho Bar	Sabor a Mar	Salmón Teriyaki (en Costra de sésamo, quinoa, verduritas y frutos rojos)	13,5 €	salmón teriyaki (en costra de sésamo, quinoa, verduritas y frutos rojos)	sabor a mar
+22	Boho Bar	Sabor a Mar	Pulpo a la parrilla con papas arrugás y pimentón de la Vera	16 €	pulpo a la parrilla con papas arrugás y pimentón de la vera	sabor a mar
+23	Boho Bar	Carnes	Twister Boho Burger con rulo de cabra, pesto Rosso y tornado de patata	12,5 €	twister boho burger con rulo de cabra, pesto rosso y tornado de patata	carnes
+24	Boho Bar	Carnes	Kofta (Albóndigas persas lacadas en Teriyaki de miel de flores, cous cous cítrico y salsa Tzatziki)	13,5 €	kofta (albóndigas persas lacadas en teriyaki de miel de flores, cous cous cítrico y salsa tzatziki)	carnes
+25	Boho Bar	Carnes	Tataki de Presa Ibérica con migas Japo-Extremeñas	16 €	tataki de presa ibérica con migas japo-extremeñas	carnes
+26	Boho Bar	Carnes	Pollo Tikka Massala con arroz Pilaw	13,5 €	pollo tikka massala con arroz pilaw	carnes
+27	Boho Bar	Carnes	Katxopo-Katsu (Cachopín de ternera, jamón y queso y papas arrugás con mojo canario)	15 €	katxopo-katsu (cachopín de ternera, jamón y queso y papas arrugás con mojo canario)	carnes
+28	Boho Bar	Carnes	Tacos Bulgogi (4 uds.) Asado de costilla Ibérica, BBQ Coreana y cilantro	13 €	tacos bulgogi (4 uds.) asado de costilla ibérica, bbq coreana y cilantro	carnes
+29	Boho Bar	Postres	Full Moon Party (Gofre de choco-dulce de leche, helado de algodón de azúcar y Peta Zetas)	6 €	full moon party (gofre de choco-dulce de leche, helado de algodón de azúcar y peta zetas)	postres
+30	Boho Bar	Postres	Flower Power (Senillas de chía, yogurt y frutos rojos)	5,5 €	flower power (senillas de chía, yogurt y frutos rojos)	postres
+31	Boho Bar	Postres	Original Brownie con helado de Vainilla	5,5 €	original brownie con helado de vainilla	postres
+32	Boho Bar	Postres	Boho Carrot Cake con coko rallado	5,5 €	boho carrot cake con coko rallado	postres
+33	Boho Bar	Postres	Leche, Cacao y Galletas (Crema de galleta, helado de leche fresca y espuma de cacao)	5,5 €	leche, cacao y galletas (crema de galleta, helado de leche fresca y espuma de cacao)	postres
+34	Boho Bar	Postres	Bohemian Cheesecake	5,5 €	bohemian cheesecake	postres
+35	Boho Bar	Postres	Coulant au Chocolat con helado de violetas	6 €	coulant au chocolat con helado de violetas	postres
+36	Boho Bar	Postres	Sorbetes y Helados	5 €	sorbetes y helados	postres
+37	Boho Bar	seccion_bebidas	Botella de champán	36 €	botella de champán	seccion_bebidas
+38	Boho Bar	seccion_bebidas	Café	1,7 €	café	seccion_bebidas
+39	Boho Bar	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+40	Boho Bar	seccion_bebidas	Botella de vino	15 €	botella de vino	seccion_bebidas
+41	Boho Bar	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	Bosco de Lobos	Tapas	Croquetas de berenjena y parmigiano (6 unidades)	6 €	croquetas de berenjena y parmigiano (6 unidades)	tapas
+1	Bosco de Lobos	Tapas	Focaccia de stracchino, prosciutto di parma, rúcula y tomate semi-seco	8 €	focaccia de stracchino, prosciutto di parma, rúcula y tomate semi-seco	tapas
+2	Bosco de Lobos	Tapas	Mejillones con hierbas, tomate cherry, Martini blanco y cítrico	9 €	mejillones con hierbas, tomate cherry, martini blanco y cítrico	tapas
+3	Bosco de Lobos	Tapas	Alcachofas fritas	7 €	alcachofas fritas	tapas
+4	Bosco de Lobos	Tapas	Patatas Buthan (patatas bravas del Himalaya)	8 €	patatas buthan (patatas bravas del himalaya)	tapas
+5	Bosco de Lobos	Tapas	Tortitas de maíz, sashimi de atún y mayonesa de chipotle	11 €	tortitas de maíz, sashimi de atún y mayonesa de chipotle	tapas
+6	Bosco de Lobos	Tapas	Ceviche de pescado blanco con ají amarillo. naranja y sal negra	10 €	ceviche de pescado blanco con ají amarillo. naranja y sal negra	tapas
+7	Bosco de Lobos	Tapas	Fritura de calamar y lima	12 €	fritura de calamar y lima	tapas
+8	Bosco de Lobos	Tapas	Canelón de espinacas con pasas y piñones	7 €	canelón de espinacas con pasas y piñones	tapas
+9	Bosco de Lobos	Sopas & Ensaladas	Ensalada templada de quinoa con verduras crujientes	11 €	ensalada templada de quinoa con verduras crujientes	sopas & ensaladas
+10	Bosco de Lobos	Sopas & Ensaladas	Ensalada de burrata con berenjena ahumada	12 €	ensalada de burrata con berenjena ahumada	sopas & ensaladas
+11	Bosco de Lobos	Sopas & Ensaladas	Cogollos templados a la bagnacauda (salsa de anchoas)	8 €	cogollos templados a la bagnacauda (salsa de anchoas)	sopas & ensaladas
+12	Bosco de Lobos	Sopas & Ensaladas	Ensalada de pimientos asados con atún confitado en escabeche	11 €	ensalada de pimientos asados con atún confitado en escabeche	sopas & ensaladas
+13	Bosco de Lobos	Carpaccio	Carpaccio clásico de ternera con salsa cipriani	13 €	carpaccio clásico de ternera con salsa cipriani	carpaccio
+14	Bosco de Lobos	Carpaccio	Carpaccio de pescado blanco con salsa oriental, jengibre y chili	12 €	carpaccio de pescado blanco con salsa oriental, jengibre y chili	carpaccio
+15	Bosco de Lobos	Carpaccio	Tartar de atún con cítricos	14 €	tartar de atún con cítricos	carpaccio
+16	Bosco de Lobos	Pizzas	Verduas a la brasa con masa de harina integral	13 €	verduas a la brasa con masa de harina integral	pizzas
+17	Bosco de Lobos	Pizzas	Margherita	10 €	margherita	pizzas
+18	Bosco de Lobos	Pizzas	Porchetta, berenjena con salsa de miel y mostaza	13 €	porchetta, berenjena con salsa de miel y mostaza	pizzas
+19	Bosco de Lobos	Pizzas	Marinara (sin queso, con anchoas y alcaparras)	13 €	marinara (sin queso, con anchoas y alcaparras)	pizzas
+20	Bosco de Lobos	Pizzas	Calzone cotto e funghi	12 €	calzone cotto e funghi	pizzas
+21	Bosco de Lobos	Pizzas	Ricotta, anchoas y flor de calabacín	14 €	ricotta, anchoas y flor de calabacín	pizzas
+22	Bosco de Lobos	Pizzas	Pizza de panceta y espárragos	12 €	pizza de panceta y espárragos	pizzas
+23	Bosco de Lobos	Pastas	Lasagna clásica bolognesa	11 €	lasagna clásica bolognesa	pastas
+24	Bosco de Lobos	Pastas	Pappardelle con ragú de carne al vino tinto	12 €	pappardelle con ragú de carne al vino tinto	pastas
+25	Bosco de Lobos	Pastas	Pappardelle al nero di sepia	13 €	pappardelle al nero di sepia	pastas
+26	Bosco de Lobos	Pastas	Spaghetti carbonara	13 €	spaghetti carbonara	pastas
+27	Bosco de Lobos	Pastas	Spaghetti vongole (tomates cherry y almejas)	14 €	spaghetti vongole (tomates cherry y almejas)	pastas
+28	Bosco de Lobos	Risottos	Setas de temporada (20 min)	17 €	setas de temporada (20 min)	risottos
+29	Bosco de Lobos	Risottos	Caldo de cigala con su carpaccio (20 min)	18 €	caldo de cigala con su carpaccio (20 min)	risottos
+30	Bosco de Lobos	Carne y Pescado	Tagliata de ternera con patata rústica	19 €	tagliata de ternera con patata rústica	carne y pescado
+31	Bosco de Lobos	Carne y Pescado	Hamburguesa Bosco con pesto, tomate seco y patatas fritas	11 €	hamburguesa bosco con pesto, tomate seco y patatas fritas	carne y pescado
+32	Bosco de Lobos	Carne y Pescado	Streak Tartar con salsa de estragón y verduritas	18 €	streak tartar con salsa de estragón y verduritas	carne y pescado
+33	Bosco de Lobos	Carne y Pescado	Pollo entero a la brasa con puré de patata y pico de gallo de cilantro y piñones	16 €	pollo entero a la brasa con puré de patata y pico de gallo de cilantro y piñones	carne y pescado
+34	Bosco de Lobos	Carne y Pescado	Bonito con cremoso de patata y setas	16 €	bonito con cremoso de patata y setas	carne y pescado
+35	Bosco de Lobos	Carne y Pescado	Merluza al horno con gratén de hinojo	16 €	merluza al horno con gratén de hinojo	carne y pescado
+0	Dionisos	Entrante	Pikilia: surtido de tapas griegas	8,15 €	pikilia: surtido de tapas griegas	entrante
+1	Dionisos	Entrante	Risotto aegiopelagitiko: arroz con marisco al estilo de las islas	8,91 €	risotto aegiopelagitiko: arroz con marisco al estilo de las islas	entrante
+2	Dionisos	Entrante	Hilopites: tagliatelle al estilo griego con tomate, olivada, orégano y queso Feta	7,83 €	hilopites: tagliatelle al estilo griego con tomate, olivada, orégano y queso feta	entrante
+3	Dionisos	Plato	Exohico de pollo: hojaldre griego relleno de cordero, verduras y queso	9,72 €	exohico de pollo: hojaldre griego relleno de cordero, verduras y queso	plato
+4	Dionisos	Plato	Garides mikrolimano: gambas cocidas al estilo del puerto de Mikrolimano	13,6 €	garides mikrolimano: gambas cocidas al estilo del puerto de mikrolimano	plato
+5	Dionisos	Plato	Paidakia de cordero: costillitas de cordero a la parrilla	12,9 €	paidakia de cordero: costillitas de cordero a la parrilla	plato
+6	Dionisos	Postre	Baklava: pastel de hojaldre griego con helado de vainilla, sirope de miel y canela	3,78 €	baklava: pastel de hojaldre griego con helado de vainilla, sirope de miel y canela	postre
+7	Dionisos	Postre	Baklava: pastel de hojaldre griego con helado de vainilla, sirope de miel y canela	4,43 €	baklava: pastel de hojaldre griego con helado de vainilla, sirope de miel y canela	postre
+8	Dionisos	Postre	Karidopita: tarta de chocolate y nueces con helado de anís ouzo y salsa de chocolate	4,32 €	karidopita: tarta de chocolate y nueces con helado de anís ouzo y salsa de chocolate	postre
+9	Dionisos	seccion_bebidas	Botella de champán	17,45 €	botella de champán	seccion_bebidas
+10	Dionisos	seccion_bebidas	Café	1,2 €	café	seccion_bebidas
+11	Dionisos	seccion_bebidas	Botella de agua	1,5 €	botella de agua	seccion_bebidas
+12	Dionisos	seccion_bebidas	Botella de vino	6,7 €	botella de vino	seccion_bebidas
+13	Dionisos	seccion_bebidas	Copa de vino	2,75 €	copa de vino	seccion_bebidas
+0	Food Truck	Entrante	Nachos	12 €	nachos	entrante
+1	Food Truck	Entrante	Palos de queso	6,5 €	palos de queso	entrante
+2	Food Truck	Entrante	Patata asada	6,5 €	patata asada	entrante
+3	Food Truck	Plato	Costiburger (250gr de carne de vaca y 250gr de costilla de cerdo, salsabarbacoa, cebolla roja y pepinillo)	12 €	costiburger (250gr de carne de vaca y 250gr de costilla de cerdo, salsabarbacoa, cebolla roja y pepinillo)	plato
+4	Food Truck	Plato	Portobello burger (carne de vaca, champiñon y chedar con cerveza Guinnes)	9 €	portobello burger (carne de vaca, champiñon y chedar con cerveza guinnes)	plato
+5	Food Truck	Plato	Phillly Cheesteak	6,5 €	phillly cheesteak	plato
+6	Food Truck	Postre	Tarta de zanahoria	4 €	tarta de zanahoria	postre
+7	Food Truck	Postre	Tarta de queso con Nutella	4 €	tarta de queso con nutella	postre
+8	Food Truck	Postre	Tarta de chocolate con cerveza Guinnes	4 €	tarta de chocolate con cerveza guinnes	postre
+9	Food Truck	seccion_bebidas	Café	1 €	café	seccion_bebidas
+10	Food Truck	seccion_bebidas	Media botella de agua	1,3 €	media botella de agua	seccion_bebidas
+0	Gioia Restaurante	Nuestros Entrantes	Uovo Morbido	15 €	uovo morbido	nuestros entrantes
+1	Gioia Restaurante	Nuestros Entrantes	Vitel Tuné	15 €	vitel tuné	nuestros entrantes
+2	Gioia Restaurante	Nuestros Entrantes	La Nostra Burrata	16 €	la nostra burrata	nuestros entrantes
+3	Gioia Restaurante	Nuestros Entrantes	Insalata al Mezzo Astice	19 €	insalata al mezzo astice	nuestros entrantes
+4	Gioia Restaurante	Nuestros Entrantes	Il Mio Viaggio sull'Etna	20 €	il mio viaggio sull'etna	nuestros entrantes
+5	Gioia Restaurante	Nuestros Entrantes	Assiette Piemontese	25 €	assiette piemontese	nuestros entrantes
+6	Gioia Restaurante	Nuestros Entrantes	My Happy Veal	23 €	my happy veal	nuestros entrantes
+7	Gioia Restaurante	Nuestras Pastas y Arroces	Tagliolini al Tartufo	23 €	tagliolini al tartufo	nuestras pastas y arroces
+8	Gioia Restaurante	Nuestras Pastas y Arroces	Agnolotti del Plin	19 €	agnolotti del plin	nuestras pastas y arroces
+9	Gioia Restaurante	Nuestras Pastas y Arroces	Tortelli di Burrata	21 €	tortelli di burrata	nuestras pastas y arroces
+10	Gioia Restaurante	Nuestras Pastas y Arroces	Riso e Oro	25 €	riso e oro	nuestras pastas y arroces
+11	Gioia Restaurante	Nuestras Pastas y Arroces	La Carbonara by Davide Bonato	19 €	la carbonara by davide bonato	nuestras pastas y arroces
+12	Gioia Restaurante	Nuestras Pastas y Arroces	Pappardelle Ostriche e Porcini	25 €	pappardelle ostriche e porcini	nuestras pastas y arroces
+13	Gioia Restaurante	Nuestras Pastas y Arroces	Tagliatelle al Ragú Bianco alla Piemontese	18 €	tagliatelle al ragú bianco alla piemontese	nuestras pastas y arroces
+14	Gioia Restaurante	Nuestros Segundos	Ossobuco alla Piemontese	25 €	ossobuco alla piemontese	nuestros segundos
+15	Gioia Restaurante	Nuestros Segundos	Filetto	28 €	filetto	nuestros segundos
+16	Gioia Restaurante	Nuestros Segundos	Piccione laccato al Ratafiá	32 €	piccione laccato al ratafiá	nuestros segundos
+17	Gioia Restaurante	Nuestros Segundos	Wagyu 54	25 €	wagyu 54	nuestros segundos
+18	Gioia Restaurante	Nuestros Segundos	Tonno Rosso del Mediterráneo	23 €	tonno rosso del mediterráneo	nuestros segundos
+19	Gioia Restaurante	Nuestros Segundos	Baccalá Nero dell'Alaska	26 €	baccalá nero dell'alaska	nuestros segundos
+20	Gioia Restaurante	Nuestros Postres	Il nostro Tiramisú	8 €	il nostro tiramisú	nuestros postres
+21	Gioia Restaurante	Nuestros Postres	Semifreddo al Gianduja	8 €	semifreddo al gianduja	nuestros postres
+22	Gioia Restaurante	Nuestros Postres	La Pannacotta	8 €	la pannacotta	nuestros postres
+23	Gioia Restaurante	Nuestros Postres	Bunet	8 €	bunet	nuestros postres
+24	Gioia Restaurante	Nuestros Postres	Il Gelato	7 €	il gelato	nuestros postres
+25	Gioia Restaurante	Nuestros Postres	Il Sorbetto al Mango	7 €	il sorbetto al mango	nuestros postres
+26	Gioia Restaurante	seccion_bebidas	Café	2 €	café	seccion_bebidas
+27	Gioia Restaurante	seccion_bebidas	Media botella de agua	3 €	media botella de agua	seccion_bebidas
+28	Gioia Restaurante	seccion_bebidas	Botella de vino	18 €	botella de vino	seccion_bebidas
+29	Gioia Restaurante	seccion_bebidas	Copa de vino	4 €	copa de vino	seccion_bebidas
+0	Hamburguesa Nostra	Entrantes	Nachos	7,9 €	nachos	entrantes
+1	Hamburguesa Nostra	Entrantes	Alitas de pollo BBQ	7,9 €	alitas de pollo bbq	entrantes
+2	Hamburguesa Nostra	Entrantes	Delicias de pollo	7,9 €	delicias de pollo	entrantes
+3	Hamburguesa Nostra	Entrantes	Tequeños	8,5 €	tequeños	entrantes
+4	Hamburguesa Nostra	Entrantes	Aros de cebolla	6,9 €	aros de cebolla	entrantes
+5	Hamburguesa Nostra	Entrantes	Combo de entrantes	12,9 €	combo de entrantes	entrantes
+6	Hamburguesa Nostra	Recetas del Chef	Inglesa (Hamburguesa grande + guarnición)	14,9 €	inglesa (hamburguesa grande + guarnición)	recetas del chef
+7	Hamburguesa Nostra	Recetas del Chef	Francesa (Hamburguesa grande + guarnición)	13,9 €	francesa (hamburguesa grande + guarnición)	recetas del chef
+8	Hamburguesa Nostra	Recetas del Chef	Del Chef (Hamburguesa + guarnición)	11,9 €	del chef (hamburguesa + guarnición)	recetas del chef
+9	Hamburguesa Nostra	Recetas del Chef	De pueblo (Hamburguesa + guarnición)	10,9 €	de pueblo (hamburguesa + guarnición)	recetas del chef
+10	Hamburguesa Nostra	Recetas del Chef	Alemana (Hamburguesa grande + guarnición)	12,9 €	alemana (hamburguesa grande + guarnición)	recetas del chef
+11	Hamburguesa Nostra	Recetas del Chef	Buey (Hamburguesa + guarnición)	15,9 €	buey (hamburguesa + guarnición)	recetas del chef
+12	Hamburguesa Nostra	Recetas del Chef	Mexicana (Hamburguesa grande + guarnición)	14,9 €	mexicana (hamburguesa grande + guarnición)	recetas del chef
+13	Hamburguesa Nostra	Recetas del Chef	Trufa (Hamburguesa + guarnición)	12,9 €	trufa (hamburguesa + guarnición)	recetas del chef
+14	Hamburguesa Nostra	Recetas del Chef	Veggie (Hamburguesa + guarnición)	10,9 €	veggie (hamburguesa + guarnición)	recetas del chef
+15	Hamburguesa Nostra	Ensaladas	Ensalada Azteca	9,5 €	ensalada azteca	ensaladas
+16	Hamburguesa Nostra	Ensaladas	Ensalda César	9 €	ensalda césar	ensaladas
+17	Hamburguesa Nostra	Ensaladas	Ensalada Genovesa	9,5 €	ensalada genovesa	ensaladas
+18	Hamburguesa Nostra	Platos	Lomo bajo	17,9 €	lomo bajo	platos
+19	Hamburguesa Nostra	Platos	Pollo barbacoa	11,9 €	pollo barbacoa	platos
+20	Hamburguesa Nostra	Postres	Tarta de chocolate	5,9 €	tarta de chocolate	postres
+21	Hamburguesa Nostra	Postres	Tartar de queso	5,9 €	tartar de queso	postres
+22	Hamburguesa Nostra	Postres	Brownie	5,9 €	brownie	postres
+23	Hamburguesa Nostra	Postres	Carrot cake	5,9 €	carrot cake	postres
+24	Hamburguesa Nostra	Postres	Batidos	5,9 €	batidos	postres
+25	Hamburguesa Nostra	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+26	Hamburguesa Nostra	seccion_bebidas	Botella de agua	1,8 €	botella de agua	seccion_bebidas
+27	Hamburguesa Nostra	seccion_bebidas	Botella de vino	15 €	botella de vino	seccion_bebidas
+28	Hamburguesa Nostra	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	Hot Now	Para compartir	Hummus	7,5 €	hummus	para compartir
+1	Hot Now	Para compartir	Guacamole	8 €	guacamole	para compartir
+2	Hot Now	Para compartir	Tabulé de quinoa	8,5 €	tabulé de quinoa	para compartir
+3	Hot Now	Pizzas	Mortadela trufada	9,5 €	mortadela trufada	pizzas
+4	Hot Now	Pizzas	Pesto	11,5 €	pesto	pizzas
+5	Hot Now	Pizzas	Burrata trufada	13,5 €	burrata trufada	pizzas
+6	Hot Now	Postre	Lemonpai	5,5 €	lemonpai	postre
+7	Hot Now	Postre	Chocolover	5,5 €	chocolover	postre
+8	Hot Now	Postre	Pizza nutella	7 €	pizza nutella	postre
+9	Hot Now	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+10	Hot Now	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+11	Hot Now	seccion_bebidas	Botella de vino	17 €	botella de vino	seccion_bebidas
+12	Hot Now	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	Izakaya Han	Entrantes	Tartar de Atún con aguacate	14,5 €	tartar de atún con aguacate	entrantes
+1	Izakaya Han	Entrantes	Tartar de Salmón con aguacate	13,5 €	tartar de salmón con aguacate	entrantes
+2	Izakaya Han	Entrantes	Misoshiru	4,5 €	misoshiru	entrantes
+3	Izakaya Han	Entrantes	Edamame	5,5 €	edamame	entrantes
+4	Izakaya Han	Entrantes	Tori Gyoza	7,5 €	tori gyoza	entrantes
+5	Izakaya Han	Entrantes	Agedashi Tofu	7,5 €	agedashi tofu	entrantes
+6	Izakaya Han	Entrantes	Ensalada Goma Wakame	6,5 €	ensalada goma wakame	entrantes
+7	Izakaya Han	Entrantes	Tako Yaki	8 €	tako yaki	entrantes
+8	Izakaya Han	Entrantes	Carpaccio de Dorada	10 €	carpaccio de dorada	entrantes
+9	Izakaya Han	Comida Coreana	Kimchi	4,5 €	kimchi	comida coreana
+10	Izakaya Han	Comida Coreana	Bulgogi	12,5 €	bulgogi	comida coreana
+11	Izakaya Han	Comida Coreana	Tallarines de batata		tallarines de batata	comida coreana
+12	Izakaya Han	Comida Coreana	Ohcingoh Bokum	13,5 €	ohcingoh bokum	comida coreana
+13	Izakaya Han	Comida Coreana	Yukhoe	16 €	yukhoe	comida coreana
+14	Izakaya Han	Comida Coreana	Jeyuk Bokkeum	12,5 €	jeyuk bokkeum	comida coreana
+15	Izakaya Han	Comida Coreana	Dolsot Bibimbap	12,5 €	dolsot bibimbap	comida coreana
+16	Izakaya Han	Comida Coreana	Hoedeopbap	12,5 €	hoedeopbap	comida coreana
+17	Izakaya Han	Comida Coreana	Kimchi Jjigae	12,5 €	kimchi jjigae	comida coreana
+18	Izakaya Han	Comida Coreana	Dakgangjeong	12 €	dakgangjeong	comida coreana
+19	Izakaya Han	Comida Coreana	Tofu Kimchi	12 €	tofu kimchi	comida coreana
+20	Izakaya Han	Comida Coreana	Kimchi Bokeumbap	12 €	kimchi bokeumbap	comida coreana
+21	Izakaya Han	Comida Coreana	Haemul jeon	12 €	haemul jeon	comida coreana
+22	Izakaya Han	Tallarines	Udon	12,5 €	udon	tallarines
+23	Izakaya Han	Tallarines	Kakiage Udon	13,5 €	kakiage udon	tallarines
+24	Izakaya Han	Tallarines	Yaki Soba	13,5 €	yaki soba	tallarines
+25	Izakaya Han	Tallarines	Yaki Soba con verdura	12 €	yaki soba con verdura	tallarines
+26	Izakaya Han	Tallarines	Yaki Soba con ternera	13,5 €	yaki soba con ternera	tallarines
+27	Izakaya Han	Postres	Helado casero de té verde	3,5 €	helado casero de té verde	postres
+28	Izakaya Han	Postres	Helado casero de judía roja	4 €	helado casero de judía roja	postres
+29	Izakaya Han	Postres	Helado de sésamo negro	4,5 €	helado de sésamo negro	postres
+30	Izakaya Han	Postres	Sorbete de Yuzu o con cava	6 €	sorbete de yuzu o con cava	postres
+31	Izakaya Han	Sushi Nigiri	Maguro	6 €	maguro	sushi nigiri
+32	Izakaya Han	Sushi Nigiri	Toro	9,5 €	toro	sushi nigiri
+33	Izakaya Han	Sushi Nigiri	Maki Sushi Set	13,5 €	maki sushi set	sushi nigiri
+34	Izakaya Han	Sushi Nigiri	Sushi variado	15,5 €	sushi variado	sushi nigiri
+35	Izakaya Han	Sushi Nigiri	Sushi especialidad del chef	22 €	sushi especialidad del chef	sushi nigiri
+36	Izakaya Han	Sushi Nigiri	Sake	5 €	sake	sushi nigiri
+37	Izakaya Han	Sushi Nigiri	Hamachi	6 €	hamachi	sushi nigiri
+38	Izakaya Han	Sushi Nigiri	Pez mantequilla	5 €	pez mantequilla	sushi nigiri
+39	Izakaya Han	Sushi Nigiri	Kaibasira	6 €	kaibasira	sushi nigiri
+40	Izakaya Han	Sushi Nigiri	Unagi	6,5 €	unagi	sushi nigiri
+41	Izakaya Han	Sushi Nigiri	Langostino / Shrimp		langostino / shrimp	sushi nigiri
+42	Izakaya Han	Sushi Nigiri	Gunkan Ikura	6,5 €	gunkan ikura	sushi nigiri
+43	Izakaya Han	Sushi Nigiri	Gunkan Negi Toro	7 €	gunkan negi toro	sushi nigiri
+44	Izakaya Han	Nori Makis	Kappa Maki	5 €	kappa maki	nori makis
+45	Izakaya Han	Nori Makis	Unagi Maki	7,5 €	unagi maki	nori makis
+46	Izakaya Han	Nori Makis	Teka Maki	8 €	teka maki	nori makis
+47	Izakaya Han	Nori Makis	Sake Hoso Maki	7 €	sake hoso maki	nori makis
+48	Izakaya Han	Nori Makis	Negitoro	10,5 €	negitoro	nori makis
+49	Izakaya Han	Temakis	Atún con aguacate	7,5 €	atún con aguacate	temakis
+50	Izakaya Han	Temakis	Salmón con huevas	6,5 €	salmón con huevas	temakis
+51	Izakaya Han	Temakis	Anguila con pepino	7,5 €	anguila con pepino	temakis
+52	Izakaya Han	Uramakis	California Rolls	12 €	california rolls	uramakis
+53	Izakaya Han	Uramakis	Spicy Atún Roll	14 €	spicy atún roll	uramakis
+54	Izakaya Han	Uramakis	Alaska Roll	13 €	alaska roll	uramakis
+55	Izakaya Han	Uramakis	Philadelphia Roll	13,5 €	philadelphia roll	uramakis
+56	Izakaya Han	Uramakis	Ebi fry	13,5 €	ebi fry	uramakis
+57	Izakaya Han	Uramakis	Salmón Flambeado Roll	14 €	salmón flambeado roll	uramakis
+58	Izakaya Han	Uramakis	Dragon Roll Flambeado	14,5 €	dragon roll flambeado	uramakis
+59	Izakaya Han	Sashimi	Maguro	13,5 €	maguro	sashimi
+60	Izakaya Han	Sashimi	Sake	12 €	sake	sashimi
+61	Izakaya Han	Sashimi	Maguro y Sake	13,5 €	maguro y sake	sashimi
+62	Izakaya Han	Sashimi	Pez mantequilla	12 €	pez mantequilla	sashimi
+63	Izakaya Han	Sashimi	Sashimi variado	16,5 €	sashimi variado	sashimi
+64	Izakaya Han	Sashimi	Sashimi especial del Chef	28 €	sashimi especial del chef	sashimi
+65	Izakaya Han	Tempuras	Langostino	13 €	langostino	tempuras
+66	Izakaya Han	Tempuras	Verduras	12,5 €	verduras	tempuras
+67	Izakaya Han	Tempuras	Tempura mixta	14,5 €	tempura mixta	tempuras
+68	Izakaya Han	Grill	Brocheta de langostino	7 €	brocheta de langostino	grill
+69	Izakaya Han	Grill	Brocheta de Vieira	8,5 €	brocheta de vieira	grill
+70	Izakaya Han	Grill	Yaki Tori	6 €	yaki tori	grill
+71	Izakaya Han	Arroces	Arroz blanco	3,5 €	arroz blanco	arroces
+72	Izakaya Han	Arroces	Sake Don	13 €	sake don	arroces
+73	Izakaya Han	Arroces	Unagi Don	14 €	unagi don	arroces
+74	Izakaya Han	seccion_bebidas	Café	2 €	café	seccion_bebidas
+75	Izakaya Han	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+76	Izakaya Han	seccion_bebidas	Botella de vino	13,5 €	botella de vino	seccion_bebidas
+77	Izakaya Han	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	Kuoco 360	Uno x Uno	Wonton crujiente	2,5 €	wonton crujiente	uno x uno
+1	Kuoco 360	Uno x Uno	OSTRA gillardeau	4,5 €	ostra gillardeau	uno x uno
+2	Kuoco 360	Uno x Uno	Dumpling (3 unds)	9 €	dumpling (3 unds)	uno x uno
+3	Kuoco 360	Uno x Uno	Croquetas Pekin	2,5 €	croquetas pekin	uno x uno
+4	Kuoco 360	Uno x Uno	Causa Croquette	2,5 €	causa croquette	uno x uno
+5	Kuoco 360	Entrantes	7 potencias Asia / Caribe 2.0	17 €	7 potencias asia / caribe 2.0	entrantes
+6	Kuoco 360	Entrantes	Hamburguesa panceta ibérica laqueada	10 €	hamburguesa panceta ibérica laqueada	entrantes
+7	Kuoco 360	Entrantes	Ceviche	18 €	ceviche	entrantes
+8	Kuoco 360	Entrantes	Tartar vieira	18 €	tartar vieira	entrantes
+9	Kuoco 360	Entrantes	Steak tartar	18 €	steak tartar	entrantes
+10	Kuoco 360	Entrantes	Pulpo Tikka	19 €	pulpo tikka	entrantes
+11	Kuoco 360	Entrantes	Burrathai	16 €	burrathai	entrantes
+12	Kuoco 360	Platos	Corvina salvaje	21 €	corvina salvaje	platos
+13	Kuoco 360	Platos	Carrillera vaca melosa	20 €	carrillera vaca melosa	platos
+14	Kuoco 360	Platos	Presa ibérica	20 €	presa ibérica	platos
+15	Kuoco 360	Platos	Mejillones thai	14 €	mejillones thai	platos
+16	Kuoco 360	Platos	Pato barbarie al wok	19 €	pato barbarie al wok	platos
+17	Kuoco 360	Postres	Mango Thai	8 €	mango thai	postres
+18	Kuoco 360	Postres	Plátano brûlée	8 €	plátano brûlée	postres
+19	Kuoco 360	Postres	Fondant	9 €	fondant	postres
+20	Kuoco 360	Aperitivo	Pan de masa madre y aperitivo	2,5 €	pan de masa madre y aperitivo	aperitivo
+21	Kuoco 360	seccion_bebidas	Café	1,9 €	café	seccion_bebidas
+22	Kuoco 360	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+23	Kuoco 360	seccion_bebidas	Botella de vino	16 €	botella de vino	seccion_bebidas
+24	Kuoco 360	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	La Carmencita	Entrante	Rabas de Santander crujientes	14,5 €	rabas de santander crujientes	entrante
+1	La Carmencita	Entrante	Croquetas de jamón del bueno o de marisquete	12,5 €	croquetas de jamón del bueno o de marisquete	entrante
+2	La Carmencita	Entrante	Anchoas de Laredo de Codesa en aceite de oliva	11 €	anchoas de laredo de codesa en aceite de oliva	entrante
+3	La Carmencita	Plato	Huevos fritos con paletilla, o con chorizo “eco” de la Sierra de Guadarrama, o con morcilla de Burgos.	12,5 €	huevos fritos con paletilla, o con chorizo “eco” de la sierra de guadarrama, o con morcilla de burgos.	plato
+4	La Carmencita	Plato	Arroz marinero, seco o caldoso, con arroz de Calasparra, taquitos de calamar, rape, mejillones y almejas	16,5 €	arroz marinero, seco o caldoso, con arroz de calasparra, taquitos de calamar, rape, mejillones y almejas	plato
+5	La Carmencita	Plato	Merluza del cantábrico con patata panadera crujiente al estilo de Santander	18 €	merluza del cantábrico con patata panadera crujiente al estilo de santander	plato
+6	La Carmencita	Postre	Arroz con leche con vainilla y toffee salado	6,25 €	arroz con leche con vainilla y toffee salado	postre
+7	La Carmencita	Postre	Tarta de queso ecológico con base de galleta	6,25 €	tarta de queso ecológico con base de galleta	postre
+8	La Carmencita	Postre	Tarta de galletas con chocolate	6,5 €	tarta de galletas con chocolate	postre
+9	La Carmencita	seccion_bebidas	Botella de vino	15,5 €	botella de vino	seccion_bebidas
+0	La Trastienda	Mesas	Nuestras mesas son altas y compartidas con más clientes		nuestras mesas son altas y compartidas con más clientes	mesas
+1	La Trastienda	Servicio	Servicio de pan y cubiertos	1,5 €	servicio de pan y cubiertos	servicio
+2	La Trastienda	Trastapeando Huertas	Tomate de huerto ecológico y ventresca de Barbate	12,5 €	tomate de huerto ecológico y ventresca de barbate	trastapeando huertas
+3	La Trastienda	Trastapeando Huertas	Pimientos de Padrón	9,5 €	pimientos de padrón	trastapeando huertas
+4	La Trastienda	Trastapeando Huertas	Alcachofa en flor a la parilla	13,5 €	alcachofa en flor a la parilla	trastapeando huertas
+5	La Trastienda	Trastapeando Mar	"Mejillones trigre ""Jo puta"""	3,95 €	"mejillones trigre ""jo puta"""	trastapeando mar
+6	La Trastienda	Trastapeando Mar	Arroz meloso de Bogavante (precio por persona)	25 €	arroz meloso de bogavante (precio por persona)	trastapeando mar
+7	La Trastienda	Trastapeando Mar	Las ostras francesas del Fish Corner (unidad)	3,5 €	las ostras francesas del fish corner (unidad)	trastapeando mar
+8	La Trastienda	Trastapeando Mar	Trilogía de atún rojo de almadraba (Fish Corner)	30 €	trilogía de atún rojo de almadraba (fish corner)	trastapeando mar
+9	La Trastienda	Trastapeando Granja	Tiras de pollo de corral con mostaza y miel	9,9 €	tiras de pollo de corral con mostaza y miel	trastapeando granja
+10	La Trastienda	Trastapeando Granja	Huevos estrellados con patatas y jamón ibérico	12,5 €	huevos estrellados con patatas y jamón ibérico	trastapeando granja
+11	La Trastienda	Trastapeando Granja	Steak tartar a cuchillo	15,9 €	steak tartar a cuchillo	trastapeando granja
+12	La Trastienda	Trastapeando Granja	Chuleta de vaca selección madurada	45 €	chuleta de vaca selección madurada	trastapeando granja
+13	La Trastienda	Excepcional	Lomo de anchoa 00 del Cantábrico con pan con tomate (ud)	3,5 €	lomo de anchoa 00 del cantábrico con pan con tomate (ud)	excepcional
+14	La Trastienda	Excepcional	Sardina ahumada en aceite de arbequita con pan con tomate	3 €	sardina ahumada en aceite de arbequita con pan con tomate	excepcional
+15	La Trastienda	Excepcional	Matrimonio: anchoa 00, boquerones/ pan con tomate (ud)	3,9 €	matrimonio: anchoa 00, boquerones/ pan con tomate (ud)	excepcional
+16	La Trastienda	Excepcional	Raciónde boquerones en vinagre con patatas chips	9,5 €	raciónde boquerones en vinagre con patatas chips	excepcional
+17	La Trastienda	Excepcional	Jamon ibérico Octavio, DO Guijuelo	15,5 €	jamon ibérico octavio, do guijuelo	excepcional
+18	La Trastienda	Excepcional	Tabla de embutidos ibéricos, DO Guijuelo	11,9 €	tabla de embutidos ibéricos, do guijuelo	excepcional
+19	La Trastienda	Excepcional	Tabla de quesos de temporada con sus cositas	14,9 €	tabla de quesos de temporada con sus cositas	excepcional
+20	La Trastienda	Excepcional	Tablón de ibéricos y quesos de temporada	29,9 €	tablón de ibéricos y quesos de temporada	excepcional
+21	La Trastienda	Fish Corner	Boquerones Fritos	12 €	boquerones fritos	fish corner
+22	La Trastienda	Fish Corner	Calamar frito de potera	12 €	calamar frito de potera	fish corner
+23	La Trastienda	Fish Corner	Pulpo a la gallega	18,9 €	pulpo a la gallega	fish corner
+24	La Trastienda	Fish Corner	Marisco Parrilla	20 €	marisco parrilla	fish corner
+25	La Trastienda	Fish Corner	Trilogía de gambas	35 €	trilogía de gambas	fish corner
+26	La Trastienda	Fish Corner	Paella Señorito (por persona)	11,9 €	paella señorito (por persona)	fish corner
+27	La Trastienda	Fish Corner	Paella Bogavante (por persona)	25 €	paella bogavante (por persona)	fish corner
+28	La Trastienda	Fish Corner	Paella Mixta (por persona)	12,9 €	paella mixta (por persona)	fish corner
+29	La Trastienda	Fish Corner	Paella Negro (por persona)	11,9 €	paella negro (por persona)	fish corner
+30	La Trastienda	Fish Corner	Paella Canabinero (por persona)	22 €	paella canabinero (por persona)	fish corner
+31	La Trastienda	Fish Corner	Cazón en adobo	10 €	cazón en adobo	fish corner
+32	La Trastienda	Fish Corner	Variado de fritura	18,9 €	variado de fritura	fish corner
+33	La Trastienda	Fish Corner	Berberechos al vapor	16 €	berberechos al vapor	fish corner
+34	La Trastienda	Fish Corner	Navajas a la plancha	16 €	navajas a la plancha	fish corner
+35	La Trastienda	Fish Corner	Coquinas	15 €	coquinas	fish corner
+36	La Trastienda	Fish Corner	Bogavante estrellado a la parrilla	39 €	bogavante estrellado a la parrilla	fish corner
+37	La Trastienda	Fish Corner	Carabinero a la plancha	15 €	carabinero a la plancha	fish corner
+38	La Trastienda	Fish Corner	Cigala a la plancha 00	19 €	cigala a la plancha 00	fish corner
+39	La Trastienda	Golosos de la trastienda	Pasteleria artesana con helado	5,9 €	pasteleria artesana con helado	golosos de la trastienda
+40	La Trastienda	seccion_bebidas	Botella de champán	10 €	botella de champán	seccion_bebidas
+41	La Trastienda	seccion_bebidas	Copa de champán	4,5 €	copa de champán	seccion_bebidas
+42	La Trastienda	seccion_bebidas	Café	1,6 €	café	seccion_bebidas
+43	La Trastienda	seccion_bebidas	Media botella de agua	2,4 €	media botella de agua	seccion_bebidas
+44	La Trastienda	seccion_bebidas	Botella de vino	15 €	botella de vino	seccion_bebidas
+45	La Trastienda	seccion_bebidas	Copa de vino	2,95 €	copa de vino	seccion_bebidas
+0	le cocó	MENU	Soup of the day	5,5 €	soup of the day	menu
+1	le cocó	MENU	Antipasti	7 €	antipasti	menu
+2	le cocó	MENU	Smoked tuna	7,5 €	smoked tuna	menu
+3	le cocó	MENU	King prawns taco	7,5 €	king prawns taco	menu
+4	le cocó	MENU	Braised Irish beef cheek	7,5 €	braised irish beef cheek	menu
+5	le cocó	MENU	Crunchy pork belly roll	7,5 €	crunchy pork belly roll	menu
+6	le cocó	MENU	Pizza	9,5 €	pizza	menu
+7	le cocó	MENU	100\% smoked beef burger	8,5 €	100\% smoked beef burger	menu
+8	le cocó	MENU	veggie/vegan burger	8 €	veggie/vegan burger	menu
+9	le cocó	MENU	Kids nuggets	7,5 €	kids nuggets	menu
+10	le cocó	MENU	Croquettes	6 €	croquettes	menu
+11	le cocó	MENU	Duck carpaccio	7 €	duck carpaccio	menu
+12	le cocó	MENU	Grilled goat cheese	6 €	grilled goat cheese	menu
+13	le cocó	MENU	Scandinavian bruschetta	7,5 €	scandinavian bruschetta	menu
+14	le cocó	MENU	Truffle arancini	7 €	truffle arancini	menu
+15	le cocó	MENU	Pumpkin gnocchi	6,5 €	pumpkin gnocchi	menu
+16	le cocó	MENU	Coconut rice	6,5 €	coconut rice	menu
+17	le cocó	MENU	Vegan coconut rice	6 €	vegan coconut rice	menu
+0	Mal de Amores	Para empezar	Chipirones macerados a la plancha acompañado con mahonesa de albahaca	11,5 €	chipirones macerados a la plancha acompañado con mahonesa de albahaca	para empezar
+1	Mal de Amores	Para empezar	Burrata con mermelada casera de tomate y naranja agria	12 €	burrata con mermelada casera de tomate y naranja agria	para empezar
+2	Mal de Amores	Para empezar	Carpaccio de pulpo con toques cítricos acompañado de rúcula	12,5 €	carpaccio de pulpo con toques cítricos acompañado de rúcula	para empezar
+3	Mal de Amores	Para empezar	Verduras plancha de temporada	8,5 €	verduras plancha de temporada	para empezar
+4	Mal de Amores	Para empezar	Carpaccio de buey con aceite de albahaca y láminas de parmesano	12 €	carpaccio de buey con aceite de albahaca y láminas de parmesano	para empezar
+5	Mal de Amores	Sugerencia maldeamores	Albóndigas de sepia con dos salsas	9,5 €	albóndigas de sepia con dos salsas	sugerencia maldeamores
+6	Mal de Amores	Sugerencia maldeamores	Cecina del bierzo con crujiente de cebolla	11,5 €	cecina del bierzo con crujiente de cebolla	sugerencia maldeamores
+7	Mal de Amores	Sugerencia maldeamores	Tabla de quesos con frutos secos	9,5 €	tabla de quesos con frutos secos	sugerencia maldeamores
+8	Mal de Amores	Sugerencia maldeamores	Saquitos de morcilla con piñones y reineta	9 €	saquitos de morcilla con piñones y reineta	sugerencia maldeamores
+9	Mal de Amores	Sugerencia maldeamores	Croquetas mar y tierra elaboradas con jamón ibérico y bacalao	8,5 €	croquetas mar y tierra elaboradas con jamón ibérico y bacalao	sugerencia maldeamores
+10	Mal de Amores	Sugerencia maldeamores	Berenjenas rebozadas con miel de caña o salmorejo	8,5 €	berenjenas rebozadas con miel de caña o salmorejo	sugerencia maldeamores
+11	Mal de Amores	Especiallidad maldeamores	Ceviche de corvina	11,5 €	ceviche de corvina	especiallidad maldeamores
+12	Mal de Amores	Ensaladas	Rulo de cabra con nueces, mahonesa de miel y mostaza	11,5 €	rulo de cabra con nueces, mahonesa de miel y mostaza	ensaladas
+13	Mal de Amores	Ensaladas	Ensalada de gambas con espinacas y tomate deshidratado	12,5 €	ensalada de gambas con espinacas y tomate deshidratado	ensaladas
+14	Mal de Amores	Ensaladas	Ensalada de pollo con vinagreta de frutos rojos y cítricos con grissini de aceite de romero	11 €	ensalada de pollo con vinagreta de frutos rojos y cítricos con grissini de aceite de romero	ensaladas
+15	Mal de Amores	Arroces	Arroz caldoso con pulpo y cola de langostinos	15,5 €	arroz caldoso con pulpo y cola de langostinos	arroces
+16	Mal de Amores	Arroces	Arroz con secreto y verduras	12,5 €	arroz con secreto y verduras	arroces
+17	Mal de Amores	Carnes	Solomillo de ternera acompañado con mermelada de higos	17,5 €	solomillo de ternera acompañado con mermelada de higos	carnes
+18	Mal de Amores	Carnes	Pluma de ibérico a la plancha con papa y mojo	13,5 €	pluma de ibérico a la plancha con papa y mojo	carnes
+19	Mal de Amores	Carnes	Carrillada de ternera estofada sobre crema de puerros	12,5 €	carrillada de ternera estofada sobre crema de puerros	carnes
+20	Mal de Amores	Carnes	Hamburguesa la flaca	11,5 €	hamburguesa la flaca	carnes
+21	Mal de Amores	Carnes	Hamburguesa la nena	10,5 €	hamburguesa la nena	carnes
+22	Mal de Amores	Pescados	Bacalao confitado sobre pipirrada	14 €	bacalao confitado sobre pipirrada	pescados
+23	Mal de Amores	Pescados	Pez mantequilla al estilo maldeamores	16,5 €	pez mantequilla al estilo maldeamores	pescados
+24	Mal de Amores	Postres	Tarta de zanahoria	6,5 €	tarta de zanahoria	postres
+25	Mal de Amores	Postres	Crema mascarpone con mermelada de fresa	6 €	crema mascarpone con mermelada de fresa	postres
+26	Mal de Amores	Postres	Coulant de chocolate con helado de vainilla	6 €	coulant de chocolate con helado de vainilla	postres
+27	Mal de Amores	Postres	Canutillos de hojaldre rellenos de crema pastelera	6 €	canutillos de hojaldre rellenos de crema pastelera	postres
+28	Mal de Amores	Postres	Flan de queso con arándanos	5 €	flan de queso con arándanos	postres
+29	Mal de Amores	Helados	Chicle	5,5 €	chicle	helados
+30	Mal de Amores	Helados	Violeta	5,5 €	violeta	helados
+31	Mal de Amores	seccion_bebidas	Botella de champán	38 €	botella de champán	seccion_bebidas
+32	Mal de Amores	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+33	Mal de Amores	seccion_bebidas	Media botella de agua	2,5 €	media botella de agua	seccion_bebidas
+34	Mal de Amores	seccion_bebidas	Botella de vino	12,5 €	botella de vino	seccion_bebidas
+35	Mal de Amores	seccion_bebidas	Copa de vino	2,5 €	copa de vino	seccion_bebidas
+0	Morgana	PETISCOS	TOMATES MARINADOS IIIª PARTE	10,5 €	tomates marinados iiiª parte	petiscos
+1	Morgana	PETISCOS	TOSTA DE SARDINA AHUMADA	12 €	tosta de sardina ahumada	petiscos
+2	Morgana	PETISCOS	VIEIRA MEX	14 €	vieira mex	petiscos
+3	Morgana	PETISCOS	CROQUETAS CASERAS	9 €	croquetas caseras	petiscos
+4	Morgana	GALICIA EN 3 PLATOS	EMPANADA artesana del día	8 €	empanada artesana del día	galicia en 3 platos
+5	Morgana	GALICIA EN 3 PLATOS	TORTILLA	9 €	tortilla	galicia en 3 platos
+6	Morgana	GALICIA EN 3 PLATOS	FILLOA DE COCIDO y emulsión de grel	12 €	filloa de cocido y emulsión de grel	galicia en 3 platos
+7	Morgana	LONJA CORUÑESA	MERLUZA DEL PINCHO a baja temperatura	19 €	merluza del pincho a baja temperatura	lonja coruñesa
+8	Morgana	LONJA CORUÑESA	PULPO A LA PLANCHA	20 €	pulpo a la plancha	lonja coruñesa
+9	Morgana	LONJA CORUÑESA	MEJILLÓN TOM KHA GA	16 €	mejillón tom kha ga	lonja coruñesa
+10	Morgana	GRANJA GALEGA	RABO DE VACA DESMECHADA	17,5 €	rabo de vaca desmechada	granja galega
+11	Morgana	GRANJA GALEGA	CROCA ROXA D’OURO	19 €	croca roxa d’ouro	granja galega
+12	Morgana	GRANJA GALEGA	PICANHA RUBIA GALLEGA (45 días maduración)	17,5 €	picanha rubia gallega (45 días maduración)	granja galega
+13	Morgana	POSTRE	LA TARTA DE QUESO DE MORGANA	6 €	la tarta de queso de morgana	postre
+14	Morgana	POSTRE	CAÑITAS DO CARBALLIÑO	6 €	cañitas do carballiño	postre
+15	Morgana	POSTRE	CHOCOLATE	6,5 €	chocolate	postre
+0	Restaurante Arce	Entrante	Humo de abedul para carnes y pescados	10 €	humo de abedul para carnes y pescados	entrante
+1	Restaurante Arce	Entrante	Alcachofas rellenas de seta encebollada al gratén de Foie	22 €	alcachofas rellenas de seta encebollada al gratén de foie	entrante
+2	Restaurante Arce	Entrante	Seta fresca nacional de temporada	23 €	seta fresca nacional de temporada	entrante
+3	Restaurante Arce	Plato	Atún rojo de la almadraba	35,5 €	atún rojo de la almadraba	plato
+4	Restaurante Arce	Plato	Carne roja sobre parmentier trufado y salsa de setas	32,5 €	carne roja sobre parmentier trufado y salsa de setas	plato
+5	Restaurante Arce	Plato	Nido de mollejas y cigalitas sobre salsa Bearnesa	27,3 €	nido de mollejas y cigalitas sobre salsa bearnesa	plato
+6	Restaurante Arce	Plato	San Pedro con su jardinera de verduras sobre jugo de vainas	28,9 €	san pedro con su jardinera de verduras sobre jugo de vainas	plato
+7	Restaurante Arce	Postre	Tarta tatín con helado de mantecado	10 €	tarta tatín con helado de mantecado	postre
+8	Restaurante Arce	Postre	Milhojas de chocolate blanco o negro	10 €	milhojas de chocolate blanco o negro	postre
+9	Restaurante Arce	seccion_bebidas	Botella de champán	55 €	botella de champán	seccion_bebidas
+10	Restaurante Arce	seccion_bebidas	Copa de champán	9 €	copa de champán	seccion_bebidas
+11	Restaurante Arce	seccion_bebidas	Café	3 €	café	seccion_bebidas
+12	Restaurante Arce	seccion_bebidas	Botella de vino	20 €	botella de vino	seccion_bebidas
+13	Restaurante Arce	seccion_bebidas	Copa de vino	3,5 €	copa de vino	seccion_bebidas
+0	RESTAURANTE KRITIKOS	*Reserva de 1 hora y media*	Viernes, sábado y domingo comida los clientes con reserva deberan abandonar su mesa al haber transcurrido una hora y media. Cualquier duda al respecto contactar con el restaurante previamente.		viernes, sábado y domingo comida los clientes con reserva deberan abandonar su mesa al haber transcurrido una hora y media. cualquier duda al respecto contactar con el restaurante previamente.	*reserva de 1 hora y media*
+1	RESTAURANTE KRITIKOS	Entrante	SPANAKOPITA	9,5 €	spanakopita	entrante
+2	RESTAURANTE KRITIKOS	Entrante	TYRI SAGANAKI	11 €	tyri saganaki	entrante
+3	RESTAURANTE KRITIKOS	Entrante	PIKILIA	10 €	pikilia	entrante
+4	RESTAURANTE KRITIKOS	Entrante	KYOPOLOU	7,5 €	kyopolou	entrante
+5	RESTAURANTE KRITIKOS	Entrante	PULPO A LA GRIEGA	18 €	pulpo a la griega	entrante
+6	RESTAURANTE KRITIKOS	Entrante	ENSALADA MYKONOS	11,5 €	ensalada mykonos	entrante
+7	RESTAURANTE KRITIKOS	Plato	EXOHIKO DE POLLO	14 €	exohiko de pollo	plato
+8	RESTAURANTE KRITIKOS	Plato	MOUSAKA	14 €	mousaka	plato
+9	RESTAURANTE KRITIKOS	Plato	PLATO KRITIKOS	17 €	plato kritikos	plato
+10	RESTAURANTE KRITIKOS	Plato	RAPE ESTILO GRIEGO	16,5 €	rape estilo griego	plato
+11	RESTAURANTE KRITIKOS	Plato	PLATO GYROS	13,5 €	plato gyros	plato
+12	RESTAURANTE KRITIKOS	Plato	PARRILLADA DE CARNE PARA DOS	29 €	parrillada de carne para dos	plato
+13	RESTAURANTE KRITIKOS	Postre	YOGURT GRIEGO	5,5 €	yogurt griego	postre
+14	RESTAURANTE KRITIKOS	Postre	YIAURTOPITA	7 €	yiaurtopita	postre
+15	RESTAURANTE KRITIKOS	Postre	HALVAS	7 €	halvas	postre
+16	RESTAURANTE KRITIKOS	Postre	BAKLAVA	6 €	baklava	postre
+17	RESTAURANTE KRITIKOS	seccion_bebidas	Café	1,2 €	café	seccion_bebidas
+18	RESTAURANTE KRITIKOS	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+19	RESTAURANTE KRITIKOS	seccion_bebidas	Botella de vino	16 €	botella de vino	seccion_bebidas
+20	RESTAURANTE KRITIKOS	seccion_bebidas	Copa de vino	2,6 €	copa de vino	seccion_bebidas
+0	Roostiq	ENTRANTES FRIOS	Tomate pelado aliñado con ajitos	7 €	tomate pelado aliñado con ajitos	entrantes frios
+1	Roostiq	ENTRANTES FRIOS	Ensaladilla rusa con pepinillos, aceitunas, pimiento asado y huevo de codorniz	7 €	ensaladilla rusa con pepinillos, aceitunas, pimiento asado y huevo de codorniz	entrantes frios
+2	Roostiq	ENTRANTES FRIOS	Ensalada de wakame, salmón marinado, tomate y huevas	14 €	ensalada de wakame, salmón marinado, tomate y huevas	entrantes frios
+3	Roostiq	ENTRANTES FRIOS	Sardina ahumada sobre tomate natural rayado (ud)	2 €	sardina ahumada sobre tomate natural rayado (ud)	entrantes frios
+4	Roostiq	ENTRANTES FRIOS	Anchoa de Santoña	2 €	anchoa de santoña	entrantes frios
+5	Roostiq	ENTRANTES FRIOS	Jamón ibérico de bellota JOSELITO	23 €	jamón ibérico de bellota joselito	entrantes frios
+6	Roostiq	ENTRANTES FRIOS	Tabla de quesos artesanos	23 €	tabla de quesos artesanos	entrantes frios
+7	Roostiq	ENTRANTES FRIOS	Tabla de embutidos ibéricos	23 €	tabla de embutidos ibéricos	entrantes frios
+8	Roostiq	ENTRANTES FRIOS	Causa limeña de pollo	9 €	causa limeña de pollo	entrantes frios
+9	Roostiq	ENTRANTES FRIOS	Titaina, tomate guisado con pimiento rojo y verde, atún y piñones	9 €	titaina, tomate guisado con pimiento rojo y verde, atún y piñones	entrantes frios
+10	Roostiq	ENTRANTES FRIOS	Ensalada César	12 €	ensalada césar	entrantes frios
+11	Roostiq	ENTRANTES FRIOS	Poke bowl de quinoa, langostinos, aguacate, pepino y vinagreta de curry rojo	14 €	poke bowl de quinoa, langostinos, aguacate, pepino y vinagreta de curry rojo	entrantes frios
+12	Roostiq	ENTRANTES FRIOS	Ceviche de corvina y gamba roja	19 €	ceviche de corvina y gamba roja	entrantes frios
+13	Roostiq	ENTRANTES FRIOS	Tiradito Mixto (corvina, pulpo y gamba roja)	20 €	tiradito mixto (corvina, pulpo y gamba roja)	entrantes frios
+14	Roostiq	ENTRANTES FRIOS	Sardina ahumada sobre base de tomate natural	2 €	sardina ahumada sobre base de tomate natural	entrantes frios
+15	Roostiq	ENTRANTES FRIOS	Ensalada de ahumados, cebolla roja y tartar de tomate	14 €	ensalada de ahumados, cebolla roja y tartar de tomate	entrantes frios
+16	Roostiq	ENTRANTES CALIENTES	Patatas bravas con alioli y pimentón picante	7 €	patatas bravas con alioli y pimentón picante	entrantes calientes
+17	Roostiq	ENTRANTES CALIENTES	Croqueta casera de jamón ibérico	1,5 €	croqueta casera de jamón ibérico	entrantes calientes
+18	Roostiq	ENTRANTES CALIENTES	Bacalao rebozado con alioli suave de azafrán y cúrcuma	12 €	bacalao rebozado con alioli suave de azafrán y cúrcuma	entrantes calientes
+19	Roostiq	ENTRANTES CALIENTES	Alitas de pollo estilo Selfie	7 €	alitas de pollo estilo selfie	entrantes calientes
+20	Roostiq	ENTRANTES CALIENTES	Fingers de pollo de corral aromatizado con miel de caña y mostaza de Dijon	10 €	fingers de pollo de corral aromatizado con miel de caña y mostaza de dijon	entrantes calientes
+21	Roostiq	ENTRANTES CALIENTES	Gambones confitados al ajillo con un toque de guindilla	10 €	gambones confitados al ajillo con un toque de guindilla	entrantes calientes
+22	Roostiq	ENTRANTES CALIENTES	Habitas salteadas con sepietas	16 €	habitas salteadas con sepietas	entrantes calientes
+23	Roostiq	ENTRANTES CALIENTES	Huevos rotos con jamón ibérico y foie	16 €	huevos rotos con jamón ibérico y foie	entrantes calientes
+24	Roostiq	ENTRANTES CALIENTES	Croqueta casera de setas y gambas	1,5 €	croqueta casera de setas y gambas	entrantes calientes
+25	Roostiq	ENTRANTES CALIENTES	Calamar andaluza con mayonesa de albahaca y lima	14 €	calamar andaluza con mayonesa de albahaca y lima	entrantes calientes
+26	Roostiq	ENTRANTES CALIENTES	Sepietas a la plancha con salsa Dénia	12 €	sepietas a la plancha con salsa dénia	entrantes calientes
+27	Roostiq	ENTRANTES CALIENTES	Verduras de temporada con salsa romescu	14 €	verduras de temporada con salsa romescu	entrantes calientes
+28	Roostiq	ENTRANTES CALIENTES	Berenjenas a la andaluza con salsa de miel y mostaza	12 €	berenjenas a la andaluza con salsa de miel y mostaza	entrantes calientes
+29	Roostiq	ENTRANTES CALIENTES	Corazones de alcachofa natural con virutas de jamón ibérico y aceite de trufa	14 €	corazones de alcachofa natural con virutas de jamón ibérico y aceite de trufa	entrantes calientes
+30	Roostiq	ENTRANTES CALIENTES	Crujiente de langostino	2 €	crujiente de langostino	entrantes calientes
+31	Roostiq	ENTRANTES CALIENTES	Pata de pulpo a la brasa con patata morada y pimentón de la Vera	16 €	pata de pulpo a la brasa con patata morada y pimentón de la vera	entrantes calientes
+32	Roostiq	SELF FISH	Calamar fresco de playa a la plancha	14 €	calamar fresco de playa a la plancha	self fish
+33	Roostiq	SELF FISH	Tartar de salmón y aguacate con sésamo, lima y alga wakame	16 €	tartar de salmón y aguacate con sésamo, lima y alga wakame	self fish
+34	Roostiq	SELF FISH	Tartar de atún rojo y aguacate con sésamo, germinados, soja y alga wakame	19 €	tartar de atún rojo y aguacate con sésamo, germinados, soja y alga wakame	self fish
+35	Roostiq	SELF FISH	Salmón al horno con salsa de cítricos y verduritas	16 €	salmón al horno con salsa de cítricos y verduritas	self fish
+36	Roostiq	SELF FISH	Corvina a la plancha con salsa de pescado y verduritas	18 €	corvina a la plancha con salsa de pescado y verduritas	self fish
+37	Roostiq	SELF FISH	Tataki de atún con algas wakame y soja	19 €	tataki de atún con algas wakame y soja	self fish
+38	Roostiq	SELF MEAT	Hamburguesa de buey con parmesano, tomate y foie o Clásica	14 €	hamburguesa de buey con parmesano, tomate y foie o clásica	self meat
+39	Roostiq	SELF MEAT	Magret de pato con salsa de ciruelas, kiwi glaseado y pera confitada	18 €	magret de pato con salsa de ciruelas, kiwi glaseado y pera confitada	self meat
+40	Roostiq	SELF MEAT	Secreto ibérico con patatas a lo pobre, pimientos de padrón y coulis de miel y trufa	16 €	secreto ibérico con patatas a lo pobre, pimientos de padrón y coulis de miel y trufa	self meat
+41	Roostiq	SELF MEAT	Entrecot de vaca vieja con sus patatas fritas y pimientos	19 €	entrecot de vaca vieja con sus patatas fritas y pimientos	self meat
+42	Roostiq	SELF MEAT	Tataki de presa ibérica	19 €	tataki de presa ibérica	self meat
+43	Roostiq	ARROCES Y PAELLAS	Paella valenciana	17 €	paella valenciana	arroces y paellas
+44	Roostiq	ARROCES Y PAELLAS	Paella de sepias de playa, rape y alcachofas	18 €	paella de sepias de playa, rape y alcachofas	arroces y paellas
+45	Roostiq	ARROCES Y PAELLAS	Paella de pulpo, setas y foie	18 €	paella de pulpo, setas y foie	arroces y paellas
+46	Roostiq	ARROCES Y PAELLAS	Arroz negro	19 €	arroz negro	arroces y paellas
+47	Roostiq	ARROCES Y PAELLAS	Arroz del senyoret	19 €	arroz del senyoret	arroces y paellas
+48	Roostiq	ARROCES Y PAELLAS	Fideuá de marisco	19 €	fideuá de marisco	arroces y paellas
+49	Roostiq	ARROCES Y PAELLAS	Paella de carabineros	24 €	paella de carabineros	arroces y paellas
+50	Roostiq	ARROCES Y PAELLAS	Paella de bogavante	23 €	paella de bogavante	arroces y paellas
+51	Roostiq	YOURSELF (Todos caseros)	Flan de queso con sirope de tofe	6 €	flan de queso con sirope de tofe	yourself (todos caseros)
+52	Roostiq	YOURSELF (Todos caseros)	Tarta Árabe	6 €	tarta árabe	yourself (todos caseros)
+53	Roostiq	YOURSELF (Todos caseros)	Fruta de temporada	4 €	fruta de temporada	yourself (todos caseros)
+54	Roostiq	YOURSELF (Todos caseros)	Tarta de dulce de leche con helado de turrón	6 €	tarta de dulce de leche con helado de turrón	yourself (todos caseros)
+55	Roostiq	YOURSELF (Todos caseros)	Brownie de chocolate con helado de vainilla	6 €	brownie de chocolate con helado de vainilla	yourself (todos caseros)
+56	Roostiq	YOURSELF (Todos caseros)	Bizcocho templado de chocolate blanco y manzana con helado de leche merengada	6 €	bizcocho templado de chocolate blanco y manzana con helado de leche merengada	yourself (todos caseros)
+57	Roostiq	YOURSELF (Todos caseros)	Cheesecake con fresas confitadas	6 €	cheesecake con fresas confitadas	yourself (todos caseros)
+58	Roostiq	YOURSELF (Todos caseros)	Torrija de horchata con helado de vainilla	6 €	torrija de horchata con helado de vainilla	yourself (todos caseros)
+59	Roostiq	YOURSELF (Todos caseros)	Canelón crujiente de manzana con helado (10 minutos)	6 €	canelón crujiente de manzana con helado (10 minutos)	yourself (todos caseros)
+60	Roostiq	YOURSELF (Todos caseros)	Sorbete de mango/limón	5 €	sorbete de mango/limón	yourself (todos caseros)
+61	Roostiq	YOURSELF (Todos caseros)	Helados	4 €	helados	yourself (todos caseros)
+62	Roostiq	seccion_bebidas	Botella de champán	29 €	botella de champán	seccion_bebidas
+63	Roostiq	seccion_bebidas	Copa de champán	7 €	copa de champán	seccion_bebidas
+64	Roostiq	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+65	Roostiq	seccion_bebidas	Media botella de agua	2,5 €	media botella de agua	seccion_bebidas
+66	Roostiq	seccion_bebidas	Botella de vino	16 €	botella de vino	seccion_bebidas
+67	Roostiq	seccion_bebidas	Copa de vino	2,5 €	copa de vino	seccion_bebidas
+0	San Wich	Entrante	Ceviche (salmón fresco marinado en limón, cebolleta, cilantro y un toque de ají verde)	9 €	ceviche (salmón fresco marinado en limón, cebolleta, cilantro y un toque de ají verde)	entrante
+1	San Wich	Entrante	Gazpacho de Betagarra (sopa fría de remolacha y manzana servida con queso de cabra y germinados de alfalfa)	4,9 €	gazpacho de betagarra (sopa fría de remolacha y manzana servida con queso de cabra y germinados de alfalfa)	entrante
+2	San Wich	Entrante	Tomare Relleno (tomate de quinoa, aguacate, maíz y albahaca sobre mezcla de lechugas con aceite de cilantro y ají verde)	5,9 €	tomare relleno (tomate de quinoa, aguacate, maíz y albahaca sobre mezcla de lechugas con aceite de cilantro y ají verde)	entrante
+3	San Wich	Plato	Hamburguesa de presa ibérica (presa aromatizada con trufa, queso Idiázabal, cebolla dorada, rúcula, pesto de tomate seco y aceite de trufa)	15,5 €	hamburguesa de presa ibérica (presa aromatizada con trufa, queso idiázabal, cebolla dorada, rúcula, pesto de tomate seco y aceite de trufa)	plato
+4	San Wich	Plato	Sandwich de churrasco italiano (pan de la casa, filete de ternera, tomate, aguacate, mayonesa)	8,5 €	sandwich de churrasco italiano (pan de la casa, filete de ternera, tomate, aguacate, mayonesa)	plato
+5	San Wich	Plato	As Diplomático (ternera, emmental fundido, champiñones salteados y cebolla caramelizada servido en pan de hot-dog)	6,75 €	as diplomático (ternera, emmental fundido, champiñones salteados y cebolla caramelizada servido en pan de hot-dog)	plato
+6	San Wich	Postre	Alfajores	3 €	alfajores	postre
+7	San Wich	Postre	Vasito de mousse de manjar (dulce de leche)	1,5 €	vasito de mousse de manjar (dulce de leche)	postre
+8	San Wich	Postre	Vasito de mote con huesillo	1,5 €	vasito de mote con huesillo	postre
+9	San Wich	seccion_bebidas	Media botella de agua	1,7 €	media botella de agua	seccion_bebidas
+10	San Wich	seccion_bebidas	Copa de vino	2,5 €	copa de vino	seccion_bebidas
+0	Sr. Ito	Entrantes	Tartar de Atún con aguacate	14,5 €	tartar de atún con aguacate	entrantes
+1	Sr. Ito	Entrantes	Tartar de Salmón con aguacate	13,5 €	tartar de salmón con aguacate	entrantes
+2	Sr. Ito	Entrantes	Misoshiru	4,5 €	misoshiru	entrantes
+3	Sr. Ito	Entrantes	Edamame	5,5 €	edamame	entrantes
+4	Sr. Ito	Entrantes	Tori Gyoza	7,5 €	tori gyoza	entrantes
+5	Sr. Ito	Entrantes	Agedashi Tofu	7,5 €	agedashi tofu	entrantes
+6	Sr. Ito	Entrantes	Ensalada Goma Wakame	6,5 €	ensalada goma wakame	entrantes
+7	Sr. Ito	Entrantes	Tako Yaki	8 €	tako yaki	entrantes
+8	Sr. Ito	Entrantes	Carpaccio de Dorada	10 €	carpaccio de dorada	entrantes
+9	Sr. Ito	Comida Coreana	Kimchi	4,5 €	kimchi	comida coreana
+10	Sr. Ito	Comida Coreana	Bulgogi	12,5 €	bulgogi	comida coreana
+11	Sr. Ito	Comida Coreana	Tallarines de batata		tallarines de batata	comida coreana
+12	Sr. Ito	Comida Coreana	Ohcingoh Bokum	13,5 €	ohcingoh bokum	comida coreana
+13	Sr. Ito	Comida Coreana	Yukhoe	16 €	yukhoe	comida coreana
+14	Sr. Ito	Comida Coreana	Jeyuk Bokkeum	12,5 €	jeyuk bokkeum	comida coreana
+15	Sr. Ito	Comida Coreana	Dolsot Bibimbap	12,5 €	dolsot bibimbap	comida coreana
+16	Sr. Ito	Comida Coreana	Hoedeopbap	12,5 €	hoedeopbap	comida coreana
+17	Sr. Ito	Comida Coreana	Kimchi Jjigae	12,5 €	kimchi jjigae	comida coreana
+18	Sr. Ito	Comida Coreana	Dakgangjeong	12 €	dakgangjeong	comida coreana
+19	Sr. Ito	Comida Coreana	Tofu Kimchi	12 €	tofu kimchi	comida coreana
+20	Sr. Ito	Comida Coreana	Kimchi Bokeumbap	12 €	kimchi bokeumbap	comida coreana
+21	Sr. Ito	Comida Coreana	Haemul jeon	12 €	haemul jeon	comida coreana
+22	Sr. Ito	Tallarines	Udon	12,5 €	udon	tallarines
+23	Sr. Ito	Tallarines	Kakiage Udon	13,5 €	kakiage udon	tallarines
+24	Sr. Ito	Tallarines	Yaki Soba	13,5 €	yaki soba	tallarines
+25	Sr. Ito	Tallarines	Yaki Soba con verdura	12 €	yaki soba con verdura	tallarines
+26	Sr. Ito	Tallarines	Yaki Soba con ternera	13,5 €	yaki soba con ternera	tallarines
+27	Sr. Ito	Postres	Helado casero de té verde	3,5 €	helado casero de té verde	postres
+28	Sr. Ito	Postres	Helado casero de judía roja	4 €	helado casero de judía roja	postres
+29	Sr. Ito	Postres	Helado de sésamo negro	4,5 €	helado de sésamo negro	postres
+30	Sr. Ito	Postres	Sorbete de Yuzu o con cava	6 €	sorbete de yuzu o con cava	postres
+31	Sr. Ito	Sushi Nigiri	Maguro	6 €	maguro	sushi nigiri
+32	Sr. Ito	Sushi Nigiri	Toro	9,5 €	toro	sushi nigiri
+33	Sr. Ito	Sushi Nigiri	Maki Sushi Set	13,5 €	maki sushi set	sushi nigiri
+34	Sr. Ito	Sushi Nigiri	Sushi variado	15,5 €	sushi variado	sushi nigiri
+35	Sr. Ito	Sushi Nigiri	Sushi especialidad del chef	22 €	sushi especialidad del chef	sushi nigiri
+36	Sr. Ito	Sushi Nigiri	Sake	5 €	sake	sushi nigiri
+37	Sr. Ito	Sushi Nigiri	Hamachi	6 €	hamachi	sushi nigiri
+38	Sr. Ito	Sushi Nigiri	Pez mantequilla	5 €	pez mantequilla	sushi nigiri
+39	Sr. Ito	Sushi Nigiri	Kaibasira	6 €	kaibasira	sushi nigiri
+40	Sr. Ito	Sushi Nigiri	Unagi	6,5 €	unagi	sushi nigiri
+41	Sr. Ito	Sushi Nigiri	Langostino / Shrimp		langostino / shrimp	sushi nigiri
+42	Sr. Ito	Sushi Nigiri	Gunkan Ikura	6,5 €	gunkan ikura	sushi nigiri
+43	Sr. Ito	Sushi Nigiri	Gunkan Negi Toro	7 €	gunkan negi toro	sushi nigiri
+44	Sr. Ito	Nori Makis	Kappa Maki	5 €	kappa maki	nori makis
+45	Sr. Ito	Nori Makis	Unagi Maki	7,5 €	unagi maki	nori makis
+46	Sr. Ito	Nori Makis	Teka Maki	8 €	teka maki	nori makis
+47	Sr. Ito	Nori Makis	Sake Hoso Maki	7 €	sake hoso maki	nori makis
+48	Sr. Ito	Nori Makis	Negitoro	10,5 €	negitoro	nori makis
+49	Sr. Ito	Temakis	Atún con aguacate	7,5 €	atún con aguacate	temakis
+50	Sr. Ito	Temakis	Salmón con huevas	6,5 €	salmón con huevas	temakis
+51	Sr. Ito	Temakis	Anguila con pepino	7,5 €	anguila con pepino	temakis
+52	Sr. Ito	Uramakis	California Rolls	12 €	california rolls	uramakis
+53	Sr. Ito	Uramakis	Spicy Atún Roll	14 €	spicy atún roll	uramakis
+54	Sr. Ito	Uramakis	Alaska Roll	13 €	alaska roll	uramakis
+55	Sr. Ito	Uramakis	Philadelphia Roll	13,5 €	philadelphia roll	uramakis
+56	Sr. Ito	Uramakis	Ebi fry	13,5 €	ebi fry	uramakis
+57	Sr. Ito	Uramakis	Salmón Flambeado Roll	14 €	salmón flambeado roll	uramakis
+58	Sr. Ito	Uramakis	Dragon Roll Flambeado	14,5 €	dragon roll flambeado	uramakis
+59	Sr. Ito	Sashimi	Maguro	13,5 €	maguro	sashimi
+60	Sr. Ito	Sashimi	Sake	12 €	sake	sashimi
+61	Sr. Ito	Sashimi	Maguro y Sake	13,5 €	maguro y sake	sashimi
+62	Sr. Ito	Sashimi	Pez mantequilla	12 €	pez mantequilla	sashimi
+63	Sr. Ito	Sashimi	Sashimi variado	16,5 €	sashimi variado	sashimi
+64	Sr. Ito	Sashimi	Sashimi especial del Chef	28 €	sashimi especial del chef	sashimi
+65	Sr. Ito	Tempuras	Langostino	13 €	langostino	tempuras
+66	Sr. Ito	Tempuras	Verduras	12,5 €	verduras	tempuras
+67	Sr. Ito	Tempuras	Tempura mixta	14,5 €	tempura mixta	tempuras
+68	Sr. Ito	Grill	Brocheta de langostino	7 €	brocheta de langostino	grill
+69	Sr. Ito	Grill	Brocheta de Vieira	8,5 €	brocheta de vieira	grill
+70	Sr. Ito	Grill	Yaki Tori	6 €	yaki tori	grill
+71	Sr. Ito	Arroces	Arroz blanco	3,5 €	arroz blanco	arroces
+72	Sr. Ito	Arroces	Sake Don	13 €	sake don	arroces
+73	Sr. Ito	Arroces	Unagi Don	14 €	unagi don	arroces
+74	Sr. Ito	seccion_bebidas	Café	2 €	café	seccion_bebidas
+75	Sr. Ito	seccion_bebidas	Media botella de agua	2 €	media botella de agua	seccion_bebidas
+76	Sr. Ito	seccion_bebidas	Botella de vino	13,5 €	botella de vino	seccion_bebidas
+77	Sr. Ito	seccion_bebidas	Copa de vino	3 €	copa de vino	seccion_bebidas
+0	Taberna El Buo	ENTRANTES	Huevos rotos de corral	10,5 €	huevos rotos de corral	entrantes
+1	Taberna El Buo	ENTRANTES	Finguer de pollo	10 €	finguer de pollo	entrantes
+2	Taberna El Buo	ENTRANTES	Verduras de temporada en tempura	8 €	verduras de temporada en tempura	entrantes
+3	Taberna El Buo	ENTRANTES	Carpaccio de ternera	12 €	carpaccio de ternera	entrantes
+4	Taberna El Buo	ENTRANTES	Croquetas caseras	10 €	croquetas caseras	entrantes
+5	Taberna El Buo	ENTRANTES	Ración de queso	12 €	ración de queso	entrantes
+6	Taberna El Buo	ENTRANTES	Ración de jamón de Trévelez	9 €	ración de jamón de trévelez	entrantes
+7	Taberna El Buo	ENTRANTES	Tartar de atún	15 €	tartar de atún	entrantes
+8	Taberna El Buo	ENTRANTES	Milhojas de mango y queso de cabra	11 €	milhojas de mango y queso de cabra	entrantes
+9	Taberna El Buo	ENTRANTES	Tataki de atún con aguacate en tempura	15 €	tataki de atún con aguacate en tempura	entrantes
+10	Taberna El Buo	ENTRANTES	CocaPizza	14 €	cocapizza	entrantes
+11	Taberna El Buo	ENTRANTES	Alcachofas al Pedro Ximenez	12 €	alcachofas al pedro ximenez	entrantes
+12	Taberna El Buo	CREMAS	Sopa de ajo	6 €	sopa de ajo	cremas
+13	Taberna El Buo	CREMAS	Crema de setas y queso de cabra	6,5 €	crema de setas y queso de cabra	cremas
+14	Taberna El Buo	ENSALDADAS	Ensalada Búho	8,5 €	ensalada búho	ensaldadas
+15	Taberna El Buo	ENSALDADAS	Zalamandroña	10 €	zalamandroña	ensaldadas
+16	Taberna El Buo	ENSALDADAS	Ensalada de vieiras y brotes tiernos	10 €	ensalada de vieiras y brotes tiernos	ensaldadas
+17	Taberna El Buo	ENSALDADAS	Capresse	8 €	capresse	ensaldadas
+18	Taberna El Buo	ENSALDADAS	Ensalada templada de setas y queso de cabra	9,5 €	ensalada templada de setas y queso de cabra	ensaldadas
+19	Taberna El Buo	PESCADOS	Cocochas de bacalao	18 €	cocochas de bacalao	pescados
+20	Taberna El Buo	PESCADOS	Ceviche de lubina	15 €	ceviche de lubina	pescados
+21	Taberna El Buo	PESCADOS	Milhojas de atún y pimientos asados	18 €	milhojas de atún y pimientos asados	pescados
+22	Taberna El Buo	PESCADOS	Salmón marinado	17 €	salmón marinado	pescados
+23	Taberna El Buo	PESCADOS	Corvina con rissoto de arroz Venere	16 €	corvina con rissoto de arroz venere	pescados
+24	Taberna El Buo	PESCADOS	Pulpo carolina	18 €	pulpo carolina	pescados
+25	Taberna El Buo	PESCADOS	Bacalao gratinado con salsa de piquillos	17 €	bacalao gratinado con salsa de piquillos	pescados
+26	Taberna El Buo	CARNES	Entrecot de ternera D. Origen Ávila	22 €	entrecot de ternera d. origen ávila	carnes
+27	Taberna El Buo	CARNES	Paletilla de cordero al estilo segoviano	24 €	paletilla de cordero al estilo segoviano	carnes
+28	Taberna El Buo	CARNES	Choto al estilo fonelas	18 €	choto al estilo fonelas	carnes
+29	Taberna El Buo	CARNES	Rabo de toro	18 €	rabo de toro	carnes
+30	Taberna El Buo	CARNES	Solomillo de Ternera	24 €	solomillo de ternera	carnes
+31	Taberna El Buo	CARNES	Molleja al Pedro Ximenez	17 €	molleja al pedro ximenez	carnes
+32	Taberna El Buo	CARNES	Carrillada	14 €	carrillada	carnes
+33	Taberna El Buo	CARNES	Flamenquín de presa ibérica	16 €	flamenquín de presa ibérica	carnes
+34	Taberna El Buo	CARNES	Rulo de cochinillo confitado con chalotas	24 €	rulo de cochinillo confitado con chalotas	carnes
+35	Taberna El Buo	PLATOS POR ENCARGO	Sustentos	12 €	sustentos	platos por encargo
+36	Taberna El Buo	PLATOS POR ENCARGO	Migas	12 €	migas	platos por encargo
+37	Taberna El Buo	PLATOS POR ENCARGO	Gachas colorás picantes	15 €	gachas colorás picantes	platos por encargo
+38	Taberna El Buo	POSTRES CASEROS	Postres caseros	4,5 €	postres caseros	postres caseros
+39	Taberna El Buo	POSTRES CASEROS	Surtido de postres caseros (2 pax)	9 €	surtido de postres caseros (2 pax)	postres caseros
+40	Taberna El Buo	seccion_bebidas	Botella de champán	10 €	botella de champán	seccion_bebidas
+41	Taberna El Buo	seccion_bebidas	Café	1,5 €	café	seccion_bebidas
+42	Taberna El Buo	seccion_bebidas	Botella de agua	2,5 €	botella de agua	seccion_bebidas
+43	Taberna El Buo	seccion_bebidas	Botella de vino	8,5 €	botella de vino	seccion_bebidas
+44	Taberna El Buo	seccion_bebidas	Copa de vino	2 €	copa de vino	seccion_bebidas
+0	Tepic	Ensaladas	Ensalada Tepic	9,5 €	ensalada tepic	ensaladas
+1	Tepic	Ensaladas	Ensalada de nopales	11 €	ensalada de nopales	ensaladas
+2	Tepic	Entrante	Flauta de chicharrón de queso	8,5 €	flauta de chicharrón de queso	entrante
+3	Tepic	Entrante	Nuestras quesadillas (trigo o maíz)	8,5 €	nuestras quesadillas (trigo o maíz)	entrante
+4	Tepic	Entrante	Totopos Tepic	10,9 €	totopos tepic	entrante
+5	Tepic	Entrante	Tostadas de pulpo	12,9 €	tostadas de pulpo	entrante
+6	Tepic	Entrante	Panuchos yucatecos	11 €	panuchos yucatecos	entrante
+7	Tepic	Entrante	Aguachile	16,9 €	aguachile	entrante
+8	Tepic	Tacos Típicos	Tampiqueña de solomillo	24 €	tampiqueña de solomillo	tacos típicos
+9	Tepic	Tacos Típicos	Tacos estilo Baja California	17,5 €	tacos estilo baja california	tacos típicos
+10	Tepic	Tacos Típicos	Tacos al pastor	18,5 €	tacos al pastor	tacos típicos
+11	Tepic	Tacos Típicos	Tacos de camarón al pastor	19,5 €	tacos de camarón al pastor	tacos típicos
+12	Tepic	Tacos Típicos	Alambres	18 €	alambres	tacos típicos
+13	Tepic	Tacos Típicos	Las carnitas	18 €	las carnitas	tacos típicos
+14	Tepic	Tacos Típicos	Tacos de solomillo	21 €	tacos de solomillo	tacos típicos
+15	Tepic	Tacos Típicos	Tacos de cochinita pibil	17,5 €	tacos de cochinita pibil	tacos típicos
+16	Tepic	Tacos con Queso	Tacos Gobernador	19,9 €	tacos gobernador	tacos con queso
+17	Tepic	Tacos con Queso	Tacos de chicharrón con queso	22 €	tacos de chicharrón con queso	tacos con queso
+18	Tepic	Tacos con Queso	Alambre con queso	19 €	alambre con queso	tacos con queso
+19	Tepic	Tacos para los que no comen carne	Champiñones Tepic	15,5 €	champiñones tepic	tacos para los que no comen carne
+20	Tepic	Tacos para los que no comen carne	Nopales	15,9 €	nopales	tacos para los que no comen carne
+21	Tepic	Sopas	Consomé de pollo	16,5 €	consomé de pollo	sopas
+22	Tepic	Sopas	Sopa de tortilla	9,5 €	sopa de tortilla	sopas
+23	Tepic	Para seguir comiendo...	Enchiladas rojas o verdes	15,5 €	enchiladas rojas o verdes	para seguir comiendo...
+24	Tepic	Para seguir comiendo...	Enmoladas	16,5 €	enmoladas	para seguir comiendo...
+25	Tepic	Postre	Pastel de tres leches	6,9 €	pastel de tres leches	postre
+26	Tepic	Postre	Crepas de cajeta	6,9 €	crepas de cajeta	postre
+27	Tepic	Postre	Buñuelos mexicanos con un baño de cajeta y helado de vainilla de papantla	6,9 €	buñuelos mexicanos con un baño de cajeta y helado de vainilla de papantla	postre
+28	Tepic	Postre	Crepas de chocolate oaxaqueño	6,9 €	crepas de chocolate oaxaqueño	postre
+29	Tepic	Postre	Pastel de elote con salsa de café de olla	6,9 €	pastel de elote con salsa de café de olla	postre
+30	Tepic	Postre	Helados artesanales	6,9 €	helados artesanales	postre
+31	Tepic	seccion_bebidas	Botella de champán	23 €	botella de champán	seccion_bebidas
+32	Tepic	seccion_bebidas	Café	2,5 €	café	seccion_bebidas
+33	Tepic	seccion_bebidas	Botella de agua	5 €	botella de agua	seccion_bebidas
+34	Tepic	seccion_bebidas	Media botella de agua	2,5 €	media botella de agua	seccion_bebidas
+35	Tepic	seccion_bebidas	Botella de vino	20 €	botella de vino	seccion_bebidas
+36	Tepic	seccion_bebidas	Copa de vino	3,9 €	copa de vino	seccion_bebidas
+0	TE CATO	Ensalada	Ensalada de burrata		ensalada de burrata	ensalada
+1	TE CATO	Ensalada	Ensalada parque		ensalada parque	ensalada
+2	TE CATO	Platos chicos	Papas Fritas		papas fritas	platos chicos
+3	TE CATO	Platos chicos	Nuggtes de Pollo		nuggtes de pollo	platos chicos
+4	TE CATO	Platos chicos	Nuggtes de Coliflor		nuggtes de coliflor	platos chicos
+5	TE CATO	Platos chicos	Montaditos		montaditos	platos chicos
+6	TE CATO	Platos chicos	Tacos de Lomo		tacos de lomo	platos chicos
+7	TE CATO	Platos chicos	Buñuelos		buñuelos	platos chicos
+8	TE CATO	Platos chicos	Fish and Chips		fish and chips	platos chicos
+9	TE CATO	Platos grandes	Pesca del día poche		pesca del día poche	platos grandes
+10	TE CATO	Platos grandes	Bondiola braseada		bondiola braseada	platos grandes
+11	TE CATO	Platos grandes	Ensalada Parque		ensalada parque	platos grandes
+12	TE CATO	Platos grandes	Salmón		salmón	platos grandes
+13	TE CATO	Platos grandes	Hamburguesa clásica		hamburguesa clásica	platos grandes
+14	TE CATO	Platos grandes	Hamburguesa Parque		hamburguesa parque	platos grandes
+15	TE CATO	Bowls	Curry bowl		curry bowl	bowls
+16	TE CATO	Bowls	Pork bowl		pork bowl	bowls
+17	TE CATO	Entre panes	Hamburguesa parque		hamburguesa parque	entre panes
+18	TE CATO	Entre panes	Hamburguesa clásica		hamburguesa clásica	entre panes
+19	TE CATO	Entre panes	Hamburguesa humita		hamburguesa humita	entre panes
+20	TE CATO	Entre panes	Hamburguesa veggie		hamburguesa veggie	entre panes
+21	TE CATO	Entre panes	Wrap parque		wrap parque	entre panes
+22	TE CATO	Postres	Cheesecake de oreo		cheesecake de oreo	postres
+23	TE CATO	Postres	Tibio de manzana		tibio de manzana	postres
+24	TE CATO	Postres	Torta tres leches		torta tres leches	postres
+25	TE CATO	Postres	Mousse		mousse	postres
+0	tuk tuk	Entrante	Tempura de langostinos servido con salsa de mango picante, cilantro y ensalada de fresas	11 €	tempura de langostinos servido con salsa de mango picante, cilantro y ensalada de fresas	entrante
+1	tuk tuk	Entrante	Pollo y cebolleta dim sum, servido con condimento tailandés picante al gusto de mango	9 €	pollo y cebolleta dim sum, servido con condimento tailandés picante al gusto de mango	entrante
+2	tuk tuk	Entrante	Pastel de pescado tailandés de salmón, gamba y lenguado con salsa de curry verde en una cama de champiñones salteados pak choy	12 €	pastel de pescado tailandés de salmón, gamba y lenguado con salsa de curry verde en una cama de champiñones salteados pak choy	entrante
+3	tuk tuk	Plato	Pechuga de pato a la parrilla servido con verduras orientales, salsa de pomelo con ensalada asiática	18 €	pechuga de pato a la parrilla servido con verduras orientales, salsa de pomelo con ensalada asiática	plato
+4	tuk tuk	Plato	Ternera al curry con verduras, anacardos, arroz de jazmín y espinacas frescas	18 €	ternera al curry con verduras, anacardos, arroz de jazmín y espinacas frescas	plato
+5	tuk tuk	Plato	Teriyaki de salmón servido con arroz de jazmín, salsa de mango y albaricoque, espinacas salteadas y verduras	18 €	teriyaki de salmón servido con arroz de jazmín, salsa de mango y albaricoque, espinacas salteadas y verduras	plato
+6	tuk tuk	Postre	Plátano asado, envuelto en azúcar de caña, frutas de la pasión y sorbete de mango	6,5 €	plátano asado, envuelto en azúcar de caña, frutas de la pasión y sorbete de mango	postre
+7	tuk tuk	Postre	Fruta de temporada servida con sorbete de menta	6,5 €	fruta de temporada servida con sorbete de menta	postre
+8	tuk tuk	Postre	Carpaccio de piña aderezado con menta y sorbete de lima	6,5 €	carpaccio de piña aderezado con menta y sorbete de lima	postre
+9	tuk tuk	seccion_bebidas	Botella de champán	6 €	botella de champán	seccion_bebidas
+10	tuk tuk	seccion_bebidas	Café	2 €	café	seccion_bebidas
+11	tuk tuk	seccion_bebidas	Media botella de agua	2,5 €	media botella de agua	seccion_bebidas
+12	tuk tuk	seccion_bebidas	Botella de vino	14 €	botella de vino	seccion_bebidas
+13	tuk tuk	seccion_bebidas	Copa de vino	3,5 €	copa de vino	seccion_bebidas
+0	Vides	Entrante	Ajo campero con puntillitas		ajo campero con puntillitas	entrante
+1	Vides	Plato	Solomillo de Cerdo sobre Crema de Boniato con Pasas de Pedro Ximénez		solomillo de cerdo sobre crema de boniato con pasas de pedro ximénez	plato
+2	Vides	Postre	Tarta de chocolate		tarta de chocolate	postre
